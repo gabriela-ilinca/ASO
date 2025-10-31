@@ -1,0 +1,2728 @@
+acct_id,category,attrib_name,attrib_value
+246216,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,72
+246216,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+246216,LA Group B: Household Demographics,HH Marital Status,Married
+246216,LA Group H: Education Demographics,Input Ind - Education,High School
+276070,LA Group B: Household Demographics,HH Marital Status,Married
+276070,LA Group H: Education Demographics,Input Ind - Education,College
+276070,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+276070,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+1617234,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+1617234,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+1617234,LA Group B: Household Demographics,HH Marital Status,Single
+1617234,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+2525154,LA Group H: Education Demographics,Input Ind - Education,High School
+2525154,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+2525154,LA Group B: Household Demographics,HH Marital Status,Married
+2525154,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+2635663,LA Group B: Household Demographics,HH Marital Status,Single
+2635663,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+2635663,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+2635663,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,68
+3643181,LA Group B: Household Demographics,HH Marital Status,Single
+3643181,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+3643181,LA Group H: Education Demographics,Input Ind - Education,High School
+3643181,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+4665262,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+4665262,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+4665262,LA Group H: Education Demographics,Input Ind - Education,College
+4665262,LA Group B: Household Demographics,HH Marital Status,Single
+5115250,LA Group B: Household Demographics,HH Marital Status,Married
+5115250,LA Group H: Education Demographics,Input Ind - Education,High School
+5115250,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+5115250,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+5997290,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+5997290,LA Group B: Household Demographics,HH Marital Status,Married
+5997290,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+5997290,LA Group H: Education Demographics,Input Ind - Education,High School
+6250214,LA Group H: Education Demographics,Input Ind - Education,College
+6250214,LA Group B: Household Demographics,HH Marital Status,Single
+6250214,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+6250214,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+6336972,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+6336972,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+6457618,LA Group H: Education Demographics,Input Ind - Education,College
+6457618,LA Group B: Household Demographics,HH Marital Status,Single
+6457618,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+6457618,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+6581185,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+6581185,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+6581185,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+6581185,LA Group B: Household Demographics,HH Marital Status,Married
+6619734,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+6619734,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+6619734,LA Group B: Household Demographics,HH Marital Status,Single
+6642549,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+6642549,LA Group H: Education Demographics,Input Ind - Education,High School
+6642549,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+6642549,LA Group B: Household Demographics,HH Marital Status,Married
+7084338,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7084338,LA Group B: Household Demographics,HH Marital Status,Married
+7084338,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+7084338,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+7097857,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+7097857,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7097857,LA Group B: Household Demographics,HH Marital Status,Single
+7199439,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7199439,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+7199439,LA Group H: Education Demographics,Input Ind - Education,High School
+7199439,LA Group B: Household Demographics,HH Marital Status,Single
+7199908,LA Group H: Education Demographics,Input Ind - Education,High School
+7199908,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+7199908,LA Group B: Household Demographics,HH Marital Status,Single
+7199908,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7201065,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+7201065,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7201065,LA Group H: Education Demographics,Input Ind - Education,College
+7201065,LA Group B: Household Demographics,HH Marital Status,Single
+7253031,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7253031,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+7253031,LA Group H: Education Demographics,Input Ind - Education,High School
+7253031,LA Group B: Household Demographics,HH Marital Status,Married
+7298569,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+7298569,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7298569,LA Group H: Education Demographics,Input Ind - Education,College
+7298569,LA Group B: Household Demographics,HH Marital Status,Married
+7340281,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7340281,LA Group H: Education Demographics,Input Ind - Education,High School
+7340281,LA Group B: Household Demographics,HH Marital Status,Married
+7340281,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+7343472,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7343472,LA Group H: Education Demographics,Input Ind - Education,College
+7343472,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+7343472,LA Group B: Household Demographics,HH Marital Status,Married
+7400696,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7400696,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+7400696,LA Group H: Education Demographics,Input Ind - Education,High School
+7400696,LA Group B: Household Demographics,HH Marital Status,Single
+7400708,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+7400708,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+7533726,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7533726,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+7533726,LA Group B: Household Demographics,HH Marital Status,Single
+7551316,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7551316,LA Group H: Education Demographics,Input Ind - Education,High School
+7551316,LA Group B: Household Demographics,HH Marital Status,Married
+7551316,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,72
+7553219,LA Group B: Household Demographics,HH Marital Status,Single
+7553219,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7553219,LA Group H: Education Demographics,Input Ind - Education,High School
+7553219,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+7570394,LA Group H: Education Demographics,Input Ind - Education,High School
+7570394,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7570394,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+7570394,LA Group B: Household Demographics,HH Marital Status,Single
+7575430,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7575430,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+7575430,LA Group B: Household Demographics,HH Marital Status,Married
+7581693,LA Group H: Education Demographics,Input Ind - Education,High School
+7581693,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7581693,LA Group B: Household Demographics,HH Marital Status,Single
+7581693,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+7585464,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7585464,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+7589120,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7589120,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+7589120,LA Group H: Education Demographics,Input Ind - Education,High School
+7589120,LA Group B: Household Demographics,HH Marital Status,Single
+7593225,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+7593225,LA Group B: Household Demographics,HH Marital Status,Married
+7593225,LA Group H: Education Demographics,Input Ind - Education,High School
+7593225,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7600728,LA Group H: Education Demographics,Input Ind - Education,College
+7600728,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7600728,LA Group B: Household Demographics,HH Marital Status,Single
+7600728,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+7612904,LA Group B: Household Demographics,HH Marital Status,Married
+7612904,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7612904,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,72
+7617076,LA Group H: Education Demographics,Input Ind - Education,High School
+7617076,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+7617076,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7617076,LA Group B: Household Demographics,HH Marital Status,Single
+7697560,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7698386,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+7698386,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7698386,LA Group H: Education Demographics,Input Ind - Education,High School
+7698386,LA Group B: Household Demographics,HH Marital Status,Single
+7705946,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+7705946,LA Group B: Household Demographics,HH Marital Status,Single
+7705946,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+7705946,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7724407,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7724407,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+7724407,LA Group H: Education Demographics,Input Ind - Education,College
+7724407,LA Group B: Household Demographics,HH Marital Status,Single
+7743788,LA Group H: Education Demographics,Input Ind - Education,High School
+7743788,LA Group B: Household Demographics,HH Marital Status,Single
+7743788,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+7743788,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7768192,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,68
+7768192,LA Group H: Education Demographics,Input Ind - Education,High School
+7768192,LA Group B: Household Demographics,HH Marital Status,Married
+7768192,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7791492,LA Group H: Education Demographics,Input Ind - Education,High School
+7791492,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7791492,LA Group B: Household Demographics,HH Marital Status,Married
+7791492,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+7792325,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7794492,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7794492,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+7796500,LA Group H: Education Demographics,Input Ind - Education,High School
+7796500,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7796500,LA Group B: Household Demographics,HH Marital Status,Single
+7796500,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+7803361,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7803361,LA Group B: Household Demographics,HH Marital Status,Married
+7803361,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+7805375,LA Group B: Household Demographics,HH Marital Status,Married
+7805375,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+7805375,LA Group H: Education Demographics,Input Ind - Education,High School
+7805375,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7805384,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7805384,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+7805384,LA Group B: Household Demographics,HH Marital Status,Single
+7805713,LA Group B: Household Demographics,HH Marital Status,Single
+7805713,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7805713,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+7805713,LA Group H: Education Demographics,Input Ind - Education,High School
+7828925,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7828925,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+7828925,LA Group H: Education Demographics,Input Ind - Education,High School
+7828925,LA Group B: Household Demographics,HH Marital Status,Single
+7858564,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+7858564,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+7858564,LA Group B: Household Demographics,HH Marital Status,Single
+7858564,LA Group H: Education Demographics,Input Ind - Education,High School
+7874135,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+7874135,LA Group H: Education Demographics,Input Ind - Education,High School
+7874135,LA Group B: Household Demographics,HH Marital Status,Single
+7874135,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+7946759,LA Group B: Household Demographics,HH Marital Status,Married
+7946759,LA Group H: Education Demographics,Input Ind - Education,College
+7946759,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+7946759,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8093927,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8093927,LA Group B: Household Demographics,HH Marital Status,Single
+8095322,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8095322,LA Group H: Education Demographics,Input Ind - Education,High School
+8095322,LA Group B: Household Demographics,HH Marital Status,Married
+8095322,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8095478,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8095478,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8095478,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8095478,LA Group H: Education Demographics,Input Ind - Education,High School
+8096486,LA Group H: Education Demographics,Input Ind - Education,High School
+8096486,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8096486,LA Group B: Household Demographics,HH Marital Status,Married
+8096486,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8096941,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8096941,LA Group H: Education Demographics,Input Ind - Education,High School
+8096941,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8096941,LA Group B: Household Demographics,HH Marital Status,Married
+8096979,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8096979,LA Group B: Household Demographics,HH Marital Status,Married
+8096979,LA Group H: Education Demographics,Input Ind - Education,High School
+8096979,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8179639,LA Group B: Household Demographics,HH Marital Status,Married
+8179639,LA Group H: Education Demographics,Input Ind - Education,High School
+8179639,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8179639,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8183551,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8183551,LA Group B: Household Demographics,HH Marital Status,Single
+8183551,LA Group H: Education Demographics,Input Ind - Education,High School
+8183551,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8184728,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8184728,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8184728,LA Group H: Education Demographics,Input Ind - Education,High School
+8184728,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8204032,LA Group H: Education Demographics,Input Ind - Education,High School
+8204032,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8204032,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8204032,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8211331,LA Group H: Education Demographics,Input Ind - Education,College
+8211331,LA Group B: Household Demographics,HH Marital Status,Married
+8211331,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8211331,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8235416,LA Group H: Education Demographics,Input Ind - Education,High School
+8235416,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8235416,LA Group B: Household Demographics,HH Marital Status,Single
+8235416,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8245340,LA Group B: Household Demographics,HH Marital Status,Married
+8245340,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8245340,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8245340,LA Group H: Education Demographics,Input Ind - Education,High School
+8283952,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8283952,LA Group B: Household Demographics,HH Marital Status,Single
+8283952,LA Group H: Education Demographics,Input Ind - Education,High School
+8283952,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8299652,LA Group H: Education Demographics,Input Ind - Education,High School
+8299652,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8299652,LA Group B: Household Demographics,HH Marital Status,Married
+8299652,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8299717,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8299717,LA Group H: Education Demographics,Input Ind - Education,High School
+8299717,LA Group B: Household Demographics,HH Marital Status,Single
+8299717,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8308707,LA Group B: Household Demographics,HH Marital Status,Married
+8308707,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8308707,LA Group H: Education Demographics,Input Ind - Education,College
+8308707,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8318208,LA Group H: Education Demographics,Input Ind - Education,College
+8318208,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8318208,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8318208,LA Group B: Household Demographics,HH Marital Status,Single
+8356497,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,70
+8356497,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8356497,LA Group B: Household Demographics,HH Marital Status,Single
+8356885,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8356885,LA Group H: Education Demographics,Input Ind - Education,High School
+8356885,LA Group B: Household Demographics,HH Marital Status,Married
+8356885,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8368093,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,68
+8368093,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8368093,LA Group B: Household Demographics,HH Marital Status,Married
+8378167,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8378167,LA Group H: Education Demographics,Input Ind - Education,College
+8378167,LA Group B: Household Demographics,HH Marital Status,Married
+8378167,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8385922,LA Group H: Education Demographics,Input Ind - Education,College
+8385922,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8385922,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8385922,LA Group B: Household Demographics,HH Marital Status,Single
+8450869,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8460601,LA Group B: Household Demographics,HH Marital Status,Single
+8460601,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8460601,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,76
+8461341,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+8461341,LA Group H: Education Demographics,Input Ind - Education,High School
+8461341,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8461341,LA Group B: Household Demographics,HH Marital Status,Married
+8465750,LA Group H: Education Demographics,Input Ind - Education,High School
+8465750,LA Group B: Household Demographics,HH Marital Status,Married
+8465750,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8465750,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8468043,LA Group B: Household Demographics,HH Marital Status,Married
+8468043,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8468043,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8468043,LA Group H: Education Demographics,Input Ind - Education,High School
+8469198,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8469198,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8469596,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8469596,LA Group H: Education Demographics,Input Ind - Education,High School
+8469596,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8469596,LA Group B: Household Demographics,HH Marital Status,Married
+8470764,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8470764,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8470764,LA Group H: Education Demographics,Input Ind - Education,High School
+8470764,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+8471779,LA Group H: Education Demographics,Input Ind - Education,High School
+8471779,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8471779,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8471779,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8472247,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8472247,LA Group B: Household Demographics,HH Marital Status,Married
+8472247,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+8472247,LA Group H: Education Demographics,Input Ind - Education,High School
+8474077,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8474077,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8474077,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8474077,LA Group H: Education Demographics,Input Ind - Education,High School
+8478334,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8478334,LA Group B: Household Demographics,HH Marital Status,Single
+8478334,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8478334,LA Group H: Education Demographics,Input Ind - Education,High School
+8483229,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8483229,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8483724,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8483724,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8483724,LA Group H: Education Demographics,Input Ind - Education,High School
+8483724,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8485695,LA Group B: Household Demographics,HH Marital Status,Married
+8485695,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8485695,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8511307,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8511307,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8511307,LA Group H: Education Demographics,Input Ind - Education,High School
+8511307,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8514040,LA Group H: Education Demographics,Input Ind - Education,High School
+8514040,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8514040,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8514040,LA Group B: Household Demographics,HH Marital Status,Single
+8516194,LA Group B: Household Demographics,HH Marital Status,Single
+8516194,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8516194,LA Group H: Education Demographics,Input Ind - Education,High School
+8516194,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8518146,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8518146,LA Group B: Household Demographics,HH Marital Status,Single
+8518146,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8518146,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+8519094,LA Group B: Household Demographics,HH Marital Status,Married
+8519094,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8519094,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8519094,LA Group H: Education Demographics,Input Ind - Education,High School
+8522381,LA Group H: Education Demographics,Input Ind - Education,High School
+8522381,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8522381,LA Group B: Household Demographics,HH Marital Status,Married
+8522381,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8522590,LA Group H: Education Demographics,Input Ind - Education,High School
+8522590,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8522590,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8522590,LA Group B: Household Demographics,HH Marital Status,Single
+8522866,LA Group B: Household Demographics,HH Marital Status,Married
+8522866,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8522866,LA Group H: Education Demographics,Input Ind - Education,High School
+8522866,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8523707,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8523707,LA Group H: Education Demographics,Input Ind - Education,High School
+8523707,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8523707,LA Group B: Household Demographics,HH Marital Status,Single
+8524597,LA Group B: Household Demographics,HH Marital Status,Married
+8524597,LA Group H: Education Demographics,Input Ind - Education,High School
+8524597,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8524597,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8526536,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8526536,LA Group B: Household Demographics,HH Marital Status,Married
+8526536,LA Group H: Education Demographics,Input Ind - Education,High School
+8526536,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8527702,LA Group H: Education Demographics,Input Ind - Education,High School
+8527702,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8527702,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8527702,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8529231,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8529231,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8529231,LA Group B: Household Demographics,HH Marital Status,Married
+8529231,LA Group H: Education Demographics,Input Ind - Education,College
+8530179,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8530179,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8530179,LA Group H: Education Demographics,Input Ind - Education,High School
+8530179,LA Group B: Household Demographics,HH Marital Status,Married
+8530711,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8530711,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8530711,LA Group B: Household Demographics,HH Marital Status,Married
+8530711,LA Group H: Education Demographics,Input Ind - Education,High School
+8533610,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8533610,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8533610,LA Group B: Household Demographics,HH Marital Status,Married
+8533610,LA Group H: Education Demographics,Input Ind - Education,College
+8535887,LA Group H: Education Demographics,Input Ind - Education,High School
+8535887,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8535887,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8535887,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8552561,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8552561,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8552561,LA Group B: Household Demographics,HH Marital Status,Married
+8552561,LA Group H: Education Demographics,Input Ind - Education,High School
+8554256,LA Group B: Household Demographics,HH Marital Status,Single
+8554256,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8554256,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8554256,LA Group H: Education Demographics,Input Ind - Education,High School
+8560907,LA Group B: Household Demographics,HH Marital Status,Single
+8560907,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8563589,LA Group B: Household Demographics,HH Marital Status,Married
+8563589,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8563589,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8563589,LA Group H: Education Demographics,Input Ind - Education,High School
+8565559,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8565559,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8565559,LA Group H: Education Demographics,Input Ind - Education,High School
+8565559,LA Group B: Household Demographics,HH Marital Status,Married
+8569536,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8569536,LA Group H: Education Demographics,Input Ind - Education,College
+8569536,LA Group B: Household Demographics,HH Marital Status,Married
+8569536,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,78
+8570113,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+8570113,LA Group B: Household Demographics,HH Marital Status,Married
+8570113,LA Group H: Education Demographics,Input Ind - Education,High School
+8570113,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8579924,LA Group B: Household Demographics,HH Marital Status,Single
+8579924,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8579924,LA Group H: Education Demographics,Input Ind - Education,College
+8579924,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8591624,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8591624,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8591624,LA Group B: Household Demographics,HH Marital Status,Married
+8591624,LA Group H: Education Demographics,Input Ind - Education,High School
+8592810,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8592810,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8592810,LA Group B: Household Demographics,HH Marital Status,Single
+8592810,LA Group H: Education Demographics,Input Ind - Education,High School
+8594625,LA Group B: Household Demographics,HH Marital Status,Single
+8594625,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8594625,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8594625,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8598796,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8598796,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8609531,LA Group B: Household Demographics,HH Marital Status,Married
+8609531,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8609531,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+8609531,LA Group H: Education Demographics,Input Ind - Education,High School
+8610402,LA Group B: Household Demographics,HH Marital Status,Single
+8610402,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8610402,LA Group H: Education Demographics,Input Ind - Education,High School
+8610402,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8615850,LA Group H: Education Demographics,Input Ind - Education,High School
+8615850,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8615850,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8615850,LA Group B: Household Demographics,HH Marital Status,Single
+8625865,LA Group B: Household Demographics,HH Marital Status,Married
+8625865,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8625865,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8625865,LA Group H: Education Demographics,Input Ind - Education,High School
+8627382,LA Group H: Education Demographics,Input Ind - Education,High School
+8627382,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8627382,LA Group B: Household Demographics,HH Marital Status,Single
+8627382,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8630517,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8630517,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8630517,LA Group H: Education Demographics,Input Ind - Education,College
+8630517,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8632880,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8632880,LA Group H: Education Demographics,Input Ind - Education,High School
+8632880,LA Group B: Household Demographics,HH Marital Status,Married
+8632880,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8636865,LA Group H: Education Demographics,Input Ind - Education,High School
+8636865,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8636865,LA Group B: Household Demographics,HH Marital Status,Single
+8636865,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8650311,LA Group B: Household Demographics,HH Marital Status,Married
+8650311,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8650311,LA Group H: Education Demographics,Input Ind - Education,High School
+8650311,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8655253,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8655253,LA Group B: Household Demographics,HH Marital Status,Married
+8655253,LA Group H: Education Demographics,Input Ind - Education,High School
+8655253,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8659821,LA Group B: Household Demographics,HH Marital Status,Single
+8659821,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8659821,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8659821,LA Group H: Education Demographics,Input Ind - Education,High School
+8659889,LA Group B: Household Demographics,HH Marital Status,Single
+8659889,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8659889,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8659889,LA Group H: Education Demographics,Input Ind - Education,High School
+8661232,LA Group B: Household Demographics,HH Marital Status,Married
+8661232,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8661232,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8662298,LA Group B: Household Demographics,HH Marital Status,Single
+8662298,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8662298,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8662605,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8662605,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8662605,LA Group B: Household Demographics,HH Marital Status,Married
+8662605,LA Group H: Education Demographics,Input Ind - Education,High School
+8664200,LA Group H: Education Demographics,Input Ind - Education,High School
+8664200,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8664200,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8664200,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8664653,LA Group B: Household Demographics,HH Marital Status,Married
+8664653,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8664653,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8668206,LA Group B: Household Demographics,HH Marital Status,Single
+8668206,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8668206,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8668206,LA Group H: Education Demographics,Input Ind - Education,College
+8671158,LA Group B: Household Demographics,HH Marital Status,Married
+8671158,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8671158,LA Group H: Education Demographics,Input Ind - Education,High School
+8671158,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8705451,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8705451,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8705451,LA Group H: Education Demographics,Input Ind - Education,High School
+8705451,LA Group B: Household Demographics,HH Marital Status,Single
+8706541,LA Group B: Household Demographics,HH Marital Status,Married
+8706541,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8706541,LA Group H: Education Demographics,Input Ind - Education,High School
+8706541,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8707519,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8707519,LA Group H: Education Demographics,Input Ind - Education,High School
+8707519,LA Group B: Household Demographics,HH Marital Status,Married
+8707519,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8708149,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8708149,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8708149,LA Group B: Household Demographics,HH Marital Status,Married
+8708149,LA Group H: Education Demographics,Input Ind - Education,College
+8709284,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8709284,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8709284,LA Group B: Household Demographics,HH Marital Status,Single
+8710409,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8710409,LA Group H: Education Demographics,Input Ind - Education,High School
+8710409,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8710409,LA Group B: Household Demographics,HH Marital Status,Married
+8710665,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8710665,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8710665,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8712127,LA Group B: Household Demographics,HH Marital Status,Married
+8712127,LA Group H: Education Demographics,Input Ind - Education,High School
+8712127,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+8712127,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8714607,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8714607,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8714607,LA Group B: Household Demographics,HH Marital Status,Married
+8714607,LA Group H: Education Demographics,Input Ind - Education,High School
+8715021,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8715021,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+8715021,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8715021,LA Group H: Education Demographics,Input Ind - Education,High School
+8716810,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8716810,LA Group H: Education Demographics,Input Ind - Education,High School
+8716810,LA Group B: Household Demographics,HH Marital Status,Married
+8716810,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8722462,LA Group B: Household Demographics,HH Marital Status,Single
+8722462,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8722462,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8731746,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8731746,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8731746,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8731826,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8731826,LA Group B: Household Demographics,HH Marital Status,Married
+8731826,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8732686,LA Group B: Household Demographics,HH Marital Status,Married
+8732686,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8732686,LA Group H: Education Demographics,Input Ind - Education,High School
+8732686,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,78
+8747913,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8747913,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+8747913,LA Group B: Household Demographics,HH Marital Status,Single
+8747913,LA Group H: Education Demographics,Input Ind - Education,High School
+8749502,LA Group H: Education Demographics,Input Ind - Education,High School
+8749502,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8749502,LA Group B: Household Demographics,HH Marital Status,Single
+8749502,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8749698,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8749698,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8750577,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8750577,LA Group B: Household Demographics,HH Marital Status,Married
+8750577,LA Group H: Education Demographics,Input Ind - Education,High School
+8750577,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,72
+8759549,LA Group H: Education Demographics,Input Ind - Education,High School
+8759549,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8759549,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8759549,LA Group B: Household Demographics,HH Marital Status,Married
+8759919,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8759919,LA Group H: Education Demographics,Input Ind - Education,High School
+8759919,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8759919,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8759926,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8759926,LA Group B: Household Demographics,HH Marital Status,Single
+8760506,LA Group H: Education Demographics,Input Ind - Education,High School
+8760506,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8760506,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8760506,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8760812,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8760812,LA Group B: Household Demographics,HH Marital Status,Married
+8760812,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8760812,LA Group H: Education Demographics,Input Ind - Education,High School
+8770936,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8770936,LA Group B: Household Demographics,HH Marital Status,Single
+8770936,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+8770936,LA Group H: Education Demographics,Input Ind - Education,High School
+8774051,LA Group B: Household Demographics,HH Marital Status,Single
+8774051,LA Group H: Education Demographics,Input Ind - Education,High School
+8774051,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8779241,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8779241,LA Group H: Education Demographics,Input Ind - Education,High School
+8779241,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8779241,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+8783913,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8783913,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8783913,LA Group H: Education Demographics,Input Ind - Education,High School
+8783913,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8784081,LA Group H: Education Demographics,Input Ind - Education,High School
+8784081,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8784081,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8784081,LA Group B: Household Demographics,HH Marital Status,Single
+8794398,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8794398,LA Group H: Education Demographics,Input Ind - Education,High School
+8794398,LA Group B: Household Demographics,HH Marital Status,Single
+8794398,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8798792,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8798792,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8798792,LA Group B: Household Demographics,HH Marital Status,Married
+8798792,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8819959,LA Group B: Household Demographics,HH Marital Status,Married
+8819959,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8819959,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8823868,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8823868,LA Group H: Education Demographics,Input Ind - Education,High School
+8823868,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8823868,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8827978,LA Group B: Household Demographics,HH Marital Status,Single
+8827978,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8841382,LA Group B: Household Demographics,HH Marital Status,Single
+8841382,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8841382,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8841382,LA Group H: Education Demographics,Input Ind - Education,College
+8852635,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,66
+8852635,LA Group H: Education Demographics,Input Ind - Education,High School
+8852635,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8852635,LA Group B: Household Demographics,HH Marital Status,Married
+8863529,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+8863529,LA Group B: Household Demographics,HH Marital Status,Single
+8863529,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8863529,LA Group H: Education Demographics,Input Ind - Education,High School
+8867170,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8867170,LA Group B: Household Demographics,HH Marital Status,Single
+8867170,LA Group H: Education Demographics,Input Ind - Education,High School
+8867170,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8868309,LA Group H: Education Demographics,Input Ind - Education,High School
+8868309,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8868309,LA Group B: Household Demographics,HH Marital Status,Married
+8868309,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8868373,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8868373,LA Group B: Household Demographics,HH Marital Status,Single
+8868373,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8868373,LA Group H: Education Demographics,Input Ind - Education,High School
+8868531,LA Group B: Household Demographics,HH Marital Status,Single
+8868531,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8868531,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8868531,LA Group H: Education Demographics,Input Ind - Education,High School
+8868540,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8868540,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8868540,LA Group H: Education Demographics,Input Ind - Education,High School
+8868540,LA Group B: Household Demographics,HH Marital Status,Single
+8868775,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8868775,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8868775,LA Group B: Household Demographics,HH Marital Status,Married
+8868795,LA Group H: Education Demographics,Input Ind - Education,High School
+8868795,LA Group B: Household Demographics,HH Marital Status,Married
+8868795,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8868795,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8868928,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+8868928,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8869005,LA Group B: Household Demographics,HH Marital Status,Married
+8869005,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8869005,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8869027,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8869027,LA Group H: Education Demographics,Input Ind - Education,High School
+8869027,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+8869027,LA Group B: Household Demographics,HH Marital Status,Single
+8869084,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8869084,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8869084,LA Group H: Education Demographics,Input Ind - Education,High School
+8869084,LA Group B: Household Demographics,HH Marital Status,Married
+8869382,LA Group H: Education Demographics,Input Ind - Education,High School
+8869382,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8869382,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8869382,LA Group B: Household Demographics,HH Marital Status,Single
+8869390,LA Group B: Household Demographics,HH Marital Status,Single
+8869390,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8869390,LA Group H: Education Demographics,Input Ind - Education,High School
+8869390,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8869427,LA Group H: Education Demographics,Input Ind - Education,High School
+8869427,LA Group B: Household Demographics,HH Marital Status,Single
+8869427,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8869427,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8870112,LA Group B: Household Demographics,HH Marital Status,Single
+8870112,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8870112,LA Group H: Education Demographics,Input Ind - Education,High School
+8870112,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8870626,LA Group B: Household Demographics,HH Marital Status,Married
+8870626,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8870626,LA Group H: Education Demographics,Input Ind - Education,High School
+8870626,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8870887,LA Group B: Household Demographics,HH Marital Status,Married
+8870887,LA Group H: Education Demographics,Input Ind - Education,High School
+8870887,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+8870887,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8871615,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8871615,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8871615,LA Group B: Household Demographics,HH Marital Status,Single
+8871615,LA Group H: Education Demographics,Input Ind - Education,High School
+8871792,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8871792,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8873272,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8873272,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8873272,LA Group H: Education Demographics,Input Ind - Education,High School
+8873272,LA Group B: Household Demographics,HH Marital Status,Single
+8874281,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8874281,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8874281,LA Group B: Household Demographics,HH Marital Status,Married
+8877156,LA Group B: Household Demographics,HH Marital Status,Married
+8877156,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8877156,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8877156,LA Group H: Education Demographics,Input Ind - Education,High School
+8878613,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8879615,LA Group H: Education Demographics,Input Ind - Education,High School
+8879615,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8879615,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8879615,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8879645,LA Group B: Household Demographics,HH Marital Status,Single
+8879645,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8879645,LA Group H: Education Demographics,Input Ind - Education,High School
+8879645,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8880866,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8880866,LA Group H: Education Demographics,Input Ind - Education,High School
+8880866,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8880866,LA Group B: Household Demographics,HH Marital Status,Married
+8881110,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8881110,LA Group H: Education Demographics,Input Ind - Education,High School
+8881110,LA Group B: Household Demographics,HH Marital Status,Married
+8881110,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8881256,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8881256,LA Group B: Household Demographics,HH Marital Status,Single
+8881256,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+8881256,LA Group H: Education Demographics,Input Ind - Education,High School
+8881381,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8881381,LA Group B: Household Demographics,HH Marital Status,Single
+8881381,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8881766,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8881766,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8881766,LA Group H: Education Demographics,Input Ind - Education,High School
+8881766,LA Group B: Household Demographics,HH Marital Status,Single
+8882289,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8882289,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8882289,LA Group B: Household Demographics,HH Marital Status,Single
+8882289,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8882785,LA Group H: Education Demographics,Input Ind - Education,High School
+8882785,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8882785,LA Group B: Household Demographics,HH Marital Status,Single
+8882785,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8883093,LA Group B: Household Demographics,HH Marital Status,Married
+8883093,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8883093,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8883385,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8883385,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8883385,LA Group H: Education Demographics,Input Ind - Education,College
+8883385,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8883476,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8883476,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8883476,LA Group H: Education Demographics,Input Ind - Education,High School
+8883476,LA Group B: Household Demographics,HH Marital Status,Married
+8883828,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8883828,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8883828,LA Group B: Household Demographics,HH Marital Status,Married
+8883945,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8883945,LA Group H: Education Demographics,Input Ind - Education,High School
+8883945,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8883945,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8884353,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8884353,LA Group B: Household Demographics,HH Marital Status,Single
+8884353,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8884559,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8884559,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8884559,LA Group B: Household Demographics,HH Marital Status,Single
+8884940,LA Group B: Household Demographics,HH Marital Status,Married
+8884940,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8884940,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8885710,LA Group H: Education Demographics,Input Ind - Education,College
+8885710,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8885710,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8885710,LA Group B: Household Demographics,HH Marital Status,Single
+8886432,LA Group H: Education Demographics,Input Ind - Education,High School
+8886432,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8886432,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8886698,LA Group H: Education Demographics,Input Ind - Education,High School
+8886698,LA Group B: Household Demographics,HH Marital Status,Married
+8886698,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8886698,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8886716,LA Group H: Education Demographics,Input Ind - Education,High School
+8886716,LA Group B: Household Demographics,HH Marital Status,Single
+8886716,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8886716,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8886724,LA Group H: Education Demographics,Input Ind - Education,High School
+8886724,LA Group B: Household Demographics,HH Marital Status,Married
+8886724,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8886724,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8886777,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8886777,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8886777,LA Group B: Household Demographics,HH Marital Status,Married
+8886839,LA Group B: Household Demographics,HH Marital Status,Married
+8886839,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8886839,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8887087,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8887087,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8887087,LA Group H: Education Demographics,Input Ind - Education,High School
+8887087,LA Group B: Household Demographics,HH Marital Status,Married
+8887486,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8887486,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8887486,LA Group B: Household Demographics,HH Marital Status,Married
+8887486,LA Group H: Education Demographics,Input Ind - Education,High School
+8887585,LA Group B: Household Demographics,HH Marital Status,Single
+8887585,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8887585,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8887585,LA Group H: Education Demographics,Input Ind - Education,High School
+8887654,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8887654,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8887654,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8888134,LA Group H: Education Demographics,Input Ind - Education,High School
+8888134,LA Group B: Household Demographics,HH Marital Status,Married
+8888134,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8888134,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8888384,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8888384,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8888384,LA Group H: Education Demographics,Input Ind - Education,High School
+8888384,LA Group B: Household Demographics,HH Marital Status,Single
+8889809,LA Group B: Household Demographics,HH Marital Status,Married
+8889809,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8889809,LA Group H: Education Demographics,Input Ind - Education,High School
+8889809,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8889855,LA Group B: Household Demographics,HH Marital Status,Married
+8889855,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,78
+8889855,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8890342,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8890342,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8890342,LA Group B: Household Demographics,HH Marital Status,Married
+8891007,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8891007,LA Group B: Household Demographics,HH Marital Status,Married
+8891007,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8891007,LA Group H: Education Demographics,Input Ind - Education,High School
+8891632,LA Group H: Education Demographics,Input Ind - Education,High School
+8891632,LA Group B: Household Demographics,HH Marital Status,Married
+8891632,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8891632,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8891904,LA Group B: Household Demographics,HH Marital Status,Married
+8891904,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8891904,LA Group H: Education Demographics,Input Ind - Education,High School
+8891904,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,70
+8891965,LA Group B: Household Demographics,HH Marital Status,Single
+8891965,LA Group H: Education Demographics,Input Ind - Education,College
+8891965,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8891965,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8892019,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8892019,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8900919,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8900919,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8900919,LA Group B: Household Demographics,HH Marital Status,Single
+8901143,LA Group B: Household Demographics,HH Marital Status,Single
+8901143,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8901143,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8903592,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8903592,LA Group B: Household Demographics,HH Marital Status,Married
+8903592,LA Group H: Education Demographics,Input Ind - Education,High School
+8903592,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8903868,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8903868,LA Group H: Education Demographics,Input Ind - Education,High School
+8903868,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8903868,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8904044,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8904044,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8904044,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8905275,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8905275,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8905499,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8905499,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8905499,LA Group H: Education Demographics,Input Ind - Education,High School
+8905499,LA Group B: Household Demographics,HH Marital Status,Single
+8905503,LA Group B: Household Demographics,HH Marital Status,Single
+8905503,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8905503,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8905503,LA Group H: Education Demographics,Input Ind - Education,High School
+8906132,LA Group B: Household Demographics,HH Marital Status,Single
+8906132,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8906132,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8906175,LA Group H: Education Demographics,Input Ind - Education,College
+8906175,LA Group B: Household Demographics,HH Marital Status,Married
+8906175,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8906175,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8906708,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+8906708,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8906708,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8907211,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8907211,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8907211,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8907211,LA Group B: Household Demographics,HH Marital Status,Married
+8907264,LA Group H: Education Demographics,Input Ind - Education,High School
+8907264,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8907264,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8907264,LA Group B: Household Demographics,HH Marital Status,Single
+8907405,LA Group H: Education Demographics,Input Ind - Education,High School
+8907405,LA Group B: Household Demographics,HH Marital Status,Single
+8907405,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8907405,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8907419,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8907419,LA Group H: Education Demographics,Input Ind - Education,High School
+8907419,LA Group B: Household Demographics,HH Marital Status,Married
+8907419,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8908183,LA Group B: Household Demographics,HH Marital Status,Single
+8908183,LA Group H: Education Demographics,Input Ind - Education,High School
+8908183,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8908183,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8908642,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8908642,LA Group B: Household Demographics,HH Marital Status,Married
+8908642,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8908642,LA Group H: Education Demographics,Input Ind - Education,High School
+8909005,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8909005,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8909005,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8909005,LA Group H: Education Demographics,Input Ind - Education,High School
+8909415,LA Group H: Education Demographics,Input Ind - Education,High School
+8909415,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8909415,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8909415,LA Group B: Household Demographics,HH Marital Status,Single
+8909483,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8909483,LA Group H: Education Demographics,Input Ind - Education,High School
+8909483,LA Group B: Household Demographics,HH Marital Status,Single
+8909483,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8909545,LA Group H: Education Demographics,Input Ind - Education,High School
+8909545,LA Group B: Household Demographics,HH Marital Status,Married
+8909545,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8909545,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8909579,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8909579,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8909579,LA Group H: Education Demographics,Input Ind - Education,College
+8909579,LA Group B: Household Demographics,HH Marital Status,Single
+8909698,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8909698,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+8909698,LA Group B: Household Demographics,HH Marital Status,Married
+8909827,LA Group H: Education Demographics,Input Ind - Education,High School
+8909827,LA Group B: Household Demographics,HH Marital Status,Single
+8909827,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8909827,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8910179,LA Group H: Education Demographics,Input Ind - Education,College
+8910179,LA Group B: Household Demographics,HH Marital Status,Married
+8910179,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8910179,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8911744,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8911744,LA Group B: Household Demographics,HH Marital Status,Single
+8911744,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+8911744,LA Group H: Education Demographics,Input Ind - Education,High School
+8911953,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8912888,LA Group B: Household Demographics,HH Marital Status,Married
+8912888,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8912888,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8912994,LA Group B: Household Demographics,HH Marital Status,Single
+8912994,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8912994,LA Group H: Education Demographics,Input Ind - Education,High School
+8912994,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8913328,LA Group H: Education Demographics,Input Ind - Education,High School
+8913328,LA Group B: Household Demographics,HH Marital Status,Married
+8913328,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8913328,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8913362,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8913362,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8913362,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8913491,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8913491,LA Group B: Household Demographics,HH Marital Status,Single
+8913559,LA Group B: Household Demographics,HH Marital Status,Single
+8913559,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8913907,LA Group B: Household Demographics,HH Marital Status,Married
+8913907,LA Group H: Education Demographics,Input Ind - Education,High School
+8913907,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8913907,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8914150,LA Group H: Education Demographics,Input Ind - Education,High School
+8914150,LA Group B: Household Demographics,HH Marital Status,Married
+8914150,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+8914150,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8915111,LA Group H: Education Demographics,Input Ind - Education,High School
+8915111,LA Group B: Household Demographics,HH Marital Status,Single
+8915111,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8915111,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8915161,LA Group H: Education Demographics,Input Ind - Education,High School
+8915161,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+8915161,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8915161,LA Group B: Household Demographics,HH Marital Status,Married
+8915398,LA Group B: Household Demographics,HH Marital Status,Single
+8915398,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8915398,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8915398,LA Group H: Education Demographics,Input Ind - Education,High School
+8920598,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8920598,LA Group B: Household Demographics,HH Marital Status,Single
+8920598,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8920598,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8920833,LA Group H: Education Demographics,Input Ind - Education,High School
+8920833,LA Group B: Household Demographics,HH Marital Status,Single
+8920833,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8920833,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8921767,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8921767,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8921932,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8921932,LA Group H: Education Demographics,Input Ind - Education,High School
+8921932,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8921932,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+8921950,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8921950,LA Group H: Education Demographics,Input Ind - Education,High School
+8921950,LA Group B: Household Demographics,HH Marital Status,Married
+8921950,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8925311,LA Group B: Household Demographics,HH Marital Status,Single
+8925311,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8925311,LA Group H: Education Demographics,Input Ind - Education,High School
+8925311,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8927398,LA Group H: Education Demographics,Input Ind - Education,High School
+8927398,LA Group B: Household Demographics,HH Marital Status,Married
+8927398,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,72
+8927398,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8927595,LA Group H: Education Demographics,Input Ind - Education,High School
+8927595,LA Group B: Household Demographics,HH Marital Status,Married
+8927595,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8927595,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8927680,LA Group H: Education Demographics,Input Ind - Education,High School
+8927680,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8927680,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8927680,LA Group B: Household Demographics,HH Marital Status,Single
+8927930,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8927930,LA Group H: Education Demographics,Input Ind - Education,High School
+8927930,LA Group B: Household Demographics,HH Marital Status,Single
+8927930,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8928234,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8928234,LA Group H: Education Demographics,Input Ind - Education,High School
+8928234,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8928234,LA Group B: Household Demographics,HH Marital Status,Married
+8928499,LA Group B: Household Demographics,HH Marital Status,Single
+8928499,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8928499,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8928573,LA Group H: Education Demographics,Input Ind - Education,College
+8928573,LA Group B: Household Demographics,HH Marital Status,Single
+8928573,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+8928573,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8928715,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8928715,LA Group B: Household Demographics,HH Marital Status,Married
+8928715,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8928778,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8928778,LA Group H: Education Demographics,Input Ind - Education,High School
+8928778,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8928778,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+8929043,LA Group H: Education Demographics,Input Ind - Education,High School
+8929043,LA Group B: Household Demographics,HH Marital Status,Single
+8929043,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+8929043,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8929417,LA Group H: Education Demographics,Input Ind - Education,High School
+8929417,LA Group B: Household Demographics,HH Marital Status,Married
+8929417,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8929417,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8929515,LA Group H: Education Demographics,Input Ind - Education,High School
+8929515,LA Group B: Household Demographics,HH Marital Status,Single
+8929515,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8929515,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8929686,LA Group H: Education Demographics,Input Ind - Education,High School
+8929686,LA Group B: Household Demographics,HH Marital Status,Single
+8929686,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,74
+8929686,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8932228,LA Group H: Education Demographics,Input Ind - Education,High School
+8932228,LA Group B: Household Demographics,HH Marital Status,Single
+8932228,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8932228,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8932271,LA Group B: Household Demographics,HH Marital Status,Single
+8932271,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8932271,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8932271,LA Group H: Education Demographics,Input Ind - Education,High School
+8932417,LA Group H: Education Demographics,Input Ind - Education,High School
+8932417,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,84
+8932417,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8932417,LA Group B: Household Demographics,HH Marital Status,Single
+8932653,LA Group H: Education Demographics,Input Ind - Education,High School
+8932653,LA Group B: Household Demographics,HH Marital Status,Married
+8932653,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8932653,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8932788,LA Group B: Household Demographics,HH Marital Status,Married
+8932788,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+8932788,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8933442,LA Group H: Education Demographics,Input Ind - Education,High School
+8933442,LA Group B: Household Demographics,HH Marital Status,Single
+8933442,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8933442,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8933993,LA Group H: Education Demographics,Input Ind - Education,College
+8933993,LA Group B: Household Demographics,HH Marital Status,Married
+8933993,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8933993,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8934856,LA Group H: Education Demographics,Input Ind - Education,High School
+8934856,LA Group B: Household Demographics,HH Marital Status,Single
+8934856,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8934856,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8935305,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8935305,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8935305,LA Group B: Household Demographics,HH Marital Status,Single
+8935863,LA Group H: Education Demographics,Input Ind - Education,High School
+8935863,LA Group B: Household Demographics,HH Marital Status,Single
+8935863,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8935863,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8935876,LA Group H: Education Demographics,Input Ind - Education,High School
+8935876,LA Group B: Household Demographics,HH Marital Status,Married
+8935876,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+8935876,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8937861,LA Group H: Education Demographics,Input Ind - Education,High School
+8937861,LA Group B: Household Demographics,HH Marital Status,Single
+8937861,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8937861,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8937871,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,68
+8937871,LA Group H: Education Demographics,Input Ind - Education,High School
+8937871,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8937871,LA Group B: Household Demographics,HH Marital Status,Married
+8937881,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8937881,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8937881,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8937957,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8937957,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+8937957,LA Group B: Household Demographics,HH Marital Status,Single
+8938475,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8938475,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8938475,LA Group H: Education Demographics,Input Ind - Education,High School
+8938475,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8938492,LA Group B: Household Demographics,HH Marital Status,Married
+8938492,LA Group H: Education Demographics,Input Ind - Education,High School
+8938492,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8938492,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8939071,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+8939071,LA Group B: Household Demographics,HH Marital Status,Married
+8939071,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8939071,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8939105,LA Group H: Education Demographics,Input Ind - Education,High School
+8939105,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8939105,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8939105,LA Group B: Household Demographics,HH Marital Status,Married
+8939568,LA Group B: Household Demographics,HH Marital Status,Single
+8939568,LA Group H: Education Demographics,Input Ind - Education,High School
+8939568,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8939568,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8939584,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8939584,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8939584,LA Group H: Education Demographics,Input Ind - Education,High School
+8939584,LA Group B: Household Demographics,HH Marital Status,Married
+8940171,LA Group B: Household Demographics,HH Marital Status,Single
+8940171,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8940171,LA Group H: Education Demographics,Input Ind - Education,High School
+8940171,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8940201,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8940201,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8940201,LA Group B: Household Demographics,HH Marital Status,Single
+8940480,LA Group H: Education Demographics,Input Ind - Education,High School
+8940480,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8940480,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8940480,LA Group B: Household Demographics,HH Marital Status,Single
+8940786,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+8940786,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8940786,LA Group B: Household Demographics,HH Marital Status,Single
+8940786,LA Group H: Education Demographics,Input Ind - Education,High School
+8940856,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8940856,LA Group H: Education Demographics,Input Ind - Education,High School
+8940856,LA Group B: Household Demographics,HH Marital Status,Single
+8940856,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8940876,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8940876,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8940876,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8940974,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+8940974,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8940974,LA Group B: Household Demographics,HH Marital Status,Married
+8940974,LA Group H: Education Demographics,Input Ind - Education,High School
+8941721,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8941721,LA Group H: Education Demographics,Input Ind - Education,High School
+8941721,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+8941721,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8941781,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8941781,LA Group B: Household Demographics,HH Marital Status,Married
+8941781,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+8942003,LA Group H: Education Demographics,Input Ind - Education,High School
+8942003,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8942003,LA Group B: Household Demographics,HH Marital Status,Married
+8942003,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8942100,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8942100,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8942100,LA Group H: Education Demographics,Input Ind - Education,College
+8942100,LA Group B: Household Demographics,HH Marital Status,Married
+8942894,LA Group B: Household Demographics,HH Marital Status,Married
+8942894,LA Group H: Education Demographics,Input Ind - Education,High School
+8942894,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8942894,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8943969,LA Group H: Education Demographics,Input Ind - Education,High School
+8943969,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8943969,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8943969,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8944698,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8944698,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8944698,LA Group H: Education Demographics,Input Ind - Education,High School
+8944698,LA Group B: Household Demographics,HH Marital Status,Married
+8944702,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8944702,LA Group H: Education Demographics,Input Ind - Education,High School
+8944702,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8944702,LA Group B: Household Demographics,HH Marital Status,Single
+8945002,LA Group H: Education Demographics,Input Ind - Education,High School
+8945002,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8945002,LA Group B: Household Demographics,HH Marital Status,Single
+8945002,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8946088,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8946088,LA Group B: Household Demographics,HH Marital Status,Married
+8946088,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8946088,LA Group H: Education Demographics,Input Ind - Education,College
+8946337,LA Group H: Education Demographics,Input Ind - Education,High School
+8946337,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8946337,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8946337,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+8946445,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8946445,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8946520,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8946520,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+8946520,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8946520,LA Group H: Education Demographics,Input Ind - Education,College
+8946674,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8946674,LA Group B: Household Demographics,HH Marital Status,Married
+8946674,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8947676,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8947676,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+8947676,LA Group H: Education Demographics,Input Ind - Education,High School
+8947676,LA Group B: Household Demographics,HH Marital Status,Married
+8950628,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8950628,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8950628,LA Group B: Household Demographics,HH Marital Status,Married
+8950628,LA Group H: Education Demographics,Input Ind - Education,High School
+8951890,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8951890,LA Group H: Education Demographics,Input Ind - Education,High School
+8951890,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8951890,LA Group B: Household Demographics,HH Marital Status,Single
+8956094,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8957264,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8957264,LA Group H: Education Demographics,Input Ind - Education,High School
+8957264,LA Group B: Household Demographics,HH Marital Status,Single
+8957264,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8966580,LA Group B: Household Demographics,HH Marital Status,Single
+8966580,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8966580,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+8967813,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8967813,LA Group H: Education Demographics,Input Ind - Education,High School
+8967813,LA Group B: Household Demographics,HH Marital Status,Married
+8967813,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8971507,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8971507,LA Group B: Household Demographics,HH Marital Status,Married
+8971507,LA Group H: Education Demographics,Input Ind - Education,High School
+8971507,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8972547,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8972547,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+8972547,LA Group B: Household Demographics,HH Marital Status,Single
+8972789,LA Group B: Household Demographics,HH Marital Status,Single
+8972789,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+8972789,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8973073,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8973073,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8973073,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+8978536,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8978536,LA Group H: Education Demographics,Input Ind - Education,High School
+8978536,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8978536,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8981892,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8981892,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+8981892,LA Group H: Education Demographics,Input Ind - Education,High School
+8981892,LA Group B: Household Demographics,HH Marital Status,Single
+8984194,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+8984194,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8985363,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8985363,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+8985363,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8988388,LA Group B: Household Demographics,HH Marital Status,Single
+8988388,LA Group H: Education Demographics,Input Ind - Education,High School
+8988388,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+8988388,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+8990987,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8990987,LA Group B: Household Demographics,HH Marital Status,Single
+8990987,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+8990987,LA Group H: Education Demographics,Input Ind - Education,College
+8991929,LA Group B: Household Demographics,HH Marital Status,Single
+8991929,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+8991929,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8992494,LA Group H: Education Demographics,Input Ind - Education,High School
+8992494,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+8992494,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+8992494,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8992918,LA Group H: Education Demographics,Input Ind - Education,High School
+8992918,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+8992918,LA Group B: Household Demographics,HH Marital Status,Married
+8992918,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8993044,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+8993044,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+8993044,LA Group B: Household Demographics,HH Marital Status,Single
+8993044,LA Group H: Education Demographics,Input Ind - Education,High School
+9005464,LA Group H: Education Demographics,Input Ind - Education,High School
+9005464,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9005464,LA Group B: Household Demographics,HH Marital Status,Single
+9005464,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9010846,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9010846,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9010846,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9010846,LA Group B: Household Demographics,HH Marital Status,Married
+9011567,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9024893,LA Group B: Household Demographics,HH Marital Status,Single
+9024893,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9024893,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9026292,LA Group B: Household Demographics,HH Marital Status,Single
+9026292,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9026292,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9026439,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9026439,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9026439,LA Group B: Household Demographics,HH Marital Status,Single
+9026439,LA Group H: Education Demographics,Input Ind - Education,High School
+9030005,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9030005,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9030005,LA Group B: Household Demographics,HH Marital Status,Single
+9030005,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9035060,LA Group B: Household Demographics,HH Marital Status,Married
+9035060,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9035060,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9035060,LA Group H: Education Demographics,Input Ind - Education,College
+9036685,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9036685,LA Group B: Household Demographics,HH Marital Status,Married
+9036685,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9038825,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9038825,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9038825,LA Group B: Household Demographics,HH Marital Status,Married
+9041241,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9041241,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9041762,LA Group H: Education Demographics,Input Ind - Education,High School
+9041762,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9041762,LA Group B: Household Demographics,HH Marital Status,Married
+9041762,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9042449,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9042449,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9042449,LA Group B: Household Demographics,HH Marital Status,Married
+9044529,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9044529,LA Group B: Household Demographics,HH Marital Status,Single
+9044529,LA Group H: Education Demographics,Input Ind - Education,College
+9044529,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9047062,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9047062,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9047062,LA Group H: Education Demographics,Input Ind - Education,High School
+9047062,LA Group B: Household Demographics,HH Marital Status,Single
+9053856,LA Group B: Household Demographics,HH Marital Status,Single
+9053856,LA Group H: Education Demographics,Input Ind - Education,High School
+9053856,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9053856,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9055873,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9055873,LA Group B: Household Demographics,HH Marital Status,Married
+9055873,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9068556,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9068556,LA Group H: Education Demographics,Input Ind - Education,College
+9068556,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9068556,LA Group B: Household Demographics,HH Marital Status,Married
+9068837,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9068837,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9068837,LA Group B: Household Demographics,HH Marital Status,Married
+9091623,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9091623,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9091623,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9091623,LA Group H: Education Demographics,Input Ind - Education,High School
+9098497,LA Group B: Household Demographics,HH Marital Status,Married
+9098497,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9098497,LA Group H: Education Demographics,Input Ind - Education,High School
+9098497,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9100513,LA Group B: Household Demographics,HH Marital Status,Married
+9100513,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9100513,LA Group H: Education Demographics,Input Ind - Education,High School
+9100513,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9101328,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9101328,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9101865,LA Group B: Household Demographics,HH Marital Status,Married
+9101865,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9101865,LA Group H: Education Demographics,Input Ind - Education,High School
+9101865,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9102872,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9102872,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9102872,LA Group H: Education Demographics,Input Ind - Education,High School
+9102872,LA Group B: Household Demographics,HH Marital Status,Married
+9106105,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9106105,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,66
+9106105,LA Group B: Household Demographics,HH Marital Status,Married
+9106105,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9107297,LA Group H: Education Demographics,Input Ind - Education,High School
+9107297,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9107297,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9107297,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9108781,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9108781,LA Group B: Household Demographics,HH Marital Status,Single
+9108781,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9109097,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9109097,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9109097,LA Group B: Household Demographics,HH Marital Status,Married
+9111603,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9111603,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9111603,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9114738,LA Group H: Education Demographics,Input Ind - Education,High School
+9114738,LA Group B: Household Demographics,HH Marital Status,Single
+9114738,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9114738,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9116453,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9116453,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9116453,LA Group B: Household Demographics,HH Marital Status,Married
+9117510,LA Group H: Education Demographics,Input Ind - Education,College
+9117510,LA Group B: Household Demographics,HH Marital Status,Married
+9117510,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9117510,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9117726,LA Group H: Education Demographics,Input Ind - Education,College
+9117726,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9117726,LA Group B: Household Demographics,HH Marital Status,Married
+9117726,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9118465,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9118465,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9118465,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9119342,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9119342,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9119342,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9119342,LA Group B: Household Demographics,HH Marital Status,Single
+9119800,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9119800,LA Group H: Education Demographics,Input Ind - Education,High School
+9119800,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9119800,LA Group B: Household Demographics,HH Marital Status,Married
+9120170,LA Group H: Education Demographics,Input Ind - Education,High School
+9120170,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9120170,LA Group B: Household Demographics,HH Marital Status,Single
+9120170,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9120214,LA Group B: Household Demographics,HH Marital Status,Married
+9120214,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9120214,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9120772,LA Group B: Household Demographics,HH Marital Status,Married
+9120772,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9120772,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9120848,LA Group H: Education Demographics,Input Ind - Education,High School
+9120848,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9120848,LA Group B: Household Demographics,HH Marital Status,Married
+9120848,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9120861,LA Group H: Education Demographics,Input Ind - Education,High School
+9120861,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,76
+9120861,LA Group B: Household Demographics,HH Marital Status,Married
+9120861,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9121248,LA Group B: Household Demographics,HH Marital Status,Single
+9121248,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9121248,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9121248,LA Group H: Education Demographics,Input Ind - Education,High School
+9121853,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9121853,LA Group H: Education Demographics,Input Ind - Education,High School
+9121853,LA Group B: Household Demographics,HH Marital Status,Single
+9121853,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9123074,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+9123074,LA Group H: Education Demographics,Input Ind - Education,High School
+9123074,LA Group B: Household Demographics,HH Marital Status,Single
+9123074,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9123086,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9123086,LA Group H: Education Demographics,Input Ind - Education,High School
+9123086,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9123086,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9123143,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9123143,LA Group B: Household Demographics,HH Marital Status,Married
+9123143,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9123143,LA Group H: Education Demographics,Input Ind - Education,High School
+9123177,LA Group B: Household Demographics,HH Marital Status,Single
+9123177,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9123177,LA Group H: Education Demographics,Input Ind - Education,College
+9123177,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9123864,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9123864,LA Group H: Education Demographics,Input Ind - Education,High School
+9123864,LA Group B: Household Demographics,HH Marital Status,Single
+9123864,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9126262,LA Group B: Household Demographics,HH Marital Status,Married
+9126262,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9126262,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9127318,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9127659,LA Group H: Education Demographics,Input Ind - Education,College
+9127659,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9127659,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9127659,LA Group B: Household Demographics,HH Marital Status,Married
+9130779,LA Group H: Education Demographics,Input Ind - Education,High School
+9130779,LA Group B: Household Demographics,HH Marital Status,Single
+9130779,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9130779,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9130896,LA Group H: Education Demographics,Input Ind - Education,High School
+9130896,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9130896,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9130896,LA Group B: Household Demographics,HH Marital Status,Married
+9133845,LA Group H: Education Demographics,Input Ind - Education,High School
+9133845,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+9133845,LA Group B: Household Demographics,HH Marital Status,Married
+9133845,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9136738,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9136738,LA Group B: Household Demographics,HH Marital Status,Single
+9136738,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9136777,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9136777,LA Group H: Education Demographics,Input Ind - Education,High School
+9136777,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9136777,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9137042,LA Group B: Household Demographics,HH Marital Status,Single
+9137042,LA Group H: Education Demographics,Input Ind - Education,College
+9137042,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9137042,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9137823,LA Group H: Education Demographics,Input Ind - Education,High School
+9137823,LA Group B: Household Demographics,HH Marital Status,Single
+9137823,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9137823,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9138474,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9138474,LA Group B: Household Demographics,HH Marital Status,Married
+9138474,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9138632,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9138632,LA Group H: Education Demographics,Input Ind - Education,High School
+9138632,LA Group B: Household Demographics,HH Marital Status,Single
+9138632,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9138952,LA Group H: Education Demographics,Input Ind - Education,High School
+9138952,LA Group B: Household Demographics,HH Marital Status,Married
+9138952,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,34
+9138952,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9139076,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9139076,LA Group B: Household Demographics,HH Marital Status,Married
+9139076,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9139076,LA Group H: Education Demographics,Input Ind - Education,College
+9139595,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9139595,LA Group B: Household Demographics,HH Marital Status,Single
+9139595,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9139595,LA Group H: Education Demographics,Input Ind - Education,College
+9156824,LA Group H: Education Demographics,Input Ind - Education,College
+9156824,LA Group B: Household Demographics,HH Marital Status,Single
+9156824,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9156824,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9156852,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9156852,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9156852,LA Group H: Education Demographics,Input Ind - Education,High School
+9156852,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9157186,LA Group B: Household Demographics,HH Marital Status,Married
+9157186,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9157186,LA Group H: Education Demographics,Input Ind - Education,High School
+9157186,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9158015,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9158015,LA Group B: Household Demographics,HH Marital Status,Single
+9158015,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+9158015,LA Group H: Education Demographics,Input Ind - Education,High School
+9158874,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9158874,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9158874,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9158874,LA Group H: Education Demographics,Input Ind - Education,High School
+9158907,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9158907,LA Group H: Education Demographics,Input Ind - Education,High School
+9158907,LA Group B: Household Demographics,HH Marital Status,Single
+9158907,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9161965,LA Group B: Household Demographics,HH Marital Status,Single
+9161965,LA Group H: Education Demographics,Input Ind - Education,High School
+9161965,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9161965,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9162767,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,74
+9162767,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9162767,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9162767,LA Group B: Household Demographics,HH Marital Status,Married
+9164528,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9164528,LA Group H: Education Demographics,Input Ind - Education,High School
+9164528,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9164528,LA Group B: Household Demographics,HH Marital Status,Single
+9164605,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9164605,LA Group H: Education Demographics,Input Ind - Education,High School
+9164605,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+9164605,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9164947,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9164947,LA Group H: Education Demographics,Input Ind - Education,High School
+9164947,LA Group B: Household Demographics,HH Marital Status,Single
+9164947,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9165133,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9165133,LA Group B: Household Demographics,HH Marital Status,Married
+9165133,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9165133,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9165610,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9165610,LA Group B: Household Demographics,HH Marital Status,Married
+9165610,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9165620,LA Group B: Household Demographics,HH Marital Status,Married
+9165620,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9165620,LA Group H: Education Demographics,Input Ind - Education,High School
+9165620,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9165859,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9165859,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9165859,LA Group H: Education Demographics,Input Ind - Education,High School
+9165859,LA Group B: Household Demographics,HH Marital Status,Married
+9165910,LA Group B: Household Demographics,HH Marital Status,Single
+9165910,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9165910,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9166083,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9166083,LA Group B: Household Demographics,HH Marital Status,Single
+9166083,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9166155,LA Group H: Education Demographics,Input Ind - Education,High School
+9166155,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9166155,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9166155,LA Group B: Household Demographics,HH Marital Status,Married
+9166221,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9166221,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9166221,LA Group B: Household Demographics,HH Marital Status,Married
+9167265,LA Group H: Education Demographics,Input Ind - Education,High School
+9167265,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9167265,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9167265,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9168001,LA Group H: Education Demographics,Input Ind - Education,High School
+9168001,LA Group B: Household Demographics,HH Marital Status,Married
+9168001,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9168001,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9168209,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9168209,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9168209,LA Group B: Household Demographics,HH Marital Status,Married
+9168209,LA Group H: Education Demographics,Input Ind - Education,High School
+9168252,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9168252,LA Group H: Education Demographics,Input Ind - Education,High School
+9168252,LA Group B: Household Demographics,HH Marital Status,Married
+9168252,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9169076,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9169076,LA Group B: Household Demographics,HH Marital Status,Married
+9169076,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9169076,LA Group H: Education Demographics,Input Ind - Education,High School
+9170160,LA Group B: Household Demographics,HH Marital Status,Single
+9170160,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9170160,LA Group H: Education Demographics,Input Ind - Education,College
+9170160,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9171874,LA Group B: Household Demographics,HH Marital Status,Married
+9171874,LA Group H: Education Demographics,Input Ind - Education,College
+9171874,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9171874,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9174006,LA Group B: Household Demographics,HH Marital Status,Married
+9174006,LA Group H: Education Demographics,Input Ind - Education,High School
+9174006,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9174006,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9176172,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9176172,LA Group B: Household Demographics,HH Marital Status,Single
+9176172,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9176172,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9176471,LA Group B: Household Demographics,HH Marital Status,Single
+9176471,LA Group H: Education Demographics,Input Ind - Education,High School
+9176471,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9176471,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9176687,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9176687,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9176687,LA Group B: Household Demographics,HH Marital Status,Married
+9176687,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9178779,LA Group B: Household Demographics,HH Marital Status,Single
+9178779,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9178779,LA Group H: Education Demographics,Input Ind - Education,High School
+9178779,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9178945,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9178945,LA Group H: Education Demographics,Input Ind - Education,High School
+9178945,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9179805,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9179805,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9179805,LA Group B: Household Demographics,HH Marital Status,Single
+9179805,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9184409,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9184409,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9184409,LA Group B: Household Demographics,HH Marital Status,Single
+9190585,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9190585,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9190585,LA Group B: Household Demographics,HH Marital Status,Married
+9190585,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9193220,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,76
+9193220,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9193220,LA Group H: Education Demographics,Input Ind - Education,High School
+9193220,LA Group B: Household Demographics,HH Marital Status,Married
+9194841,LA Group B: Household Demographics,HH Marital Status,Married
+9194841,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9194841,LA Group H: Education Demographics,Input Ind - Education,High School
+9194841,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9196360,LA Group B: Household Demographics,HH Marital Status,Single
+9196360,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9196360,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9196360,LA Group H: Education Demographics,Input Ind - Education,High School
+9197780,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9197780,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9197780,LA Group B: Household Demographics,HH Marital Status,Married
+9197780,LA Group H: Education Demographics,Input Ind - Education,High School
+9198770,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9198770,LA Group H: Education Demographics,Input Ind - Education,High School
+9198770,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9198848,LA Group B: Household Demographics,HH Marital Status,Single
+9198848,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,76
+9198848,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9198994,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9198994,LA Group B: Household Demographics,HH Marital Status,Single
+9198994,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9199760,LA Group B: Household Demographics,HH Marital Status,Married
+9199760,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9199760,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9199800,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9199800,LA Group B: Household Demographics,HH Marital Status,Single
+9199800,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9199800,LA Group H: Education Demographics,Input Ind - Education,College
+9199867,LA Group B: Household Demographics,HH Marital Status,Single
+9199867,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9199867,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9199867,LA Group H: Education Demographics,Input Ind - Education,High School
+9203799,LA Group B: Household Demographics,HH Marital Status,Single
+9203799,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9203799,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9203799,LA Group H: Education Demographics,Input Ind - Education,High School
+9205519,LA Group B: Household Demographics,HH Marital Status,Married
+9205519,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9205519,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9209258,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9209258,LA Group H: Education Demographics,Input Ind - Education,High School
+9209258,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9209776,LA Group B: Household Demographics,HH Marital Status,Single
+9209776,LA Group H: Education Demographics,Input Ind - Education,College
+9209776,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9209776,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9218584,LA Group H: Education Demographics,Input Ind - Education,High School
+9218584,LA Group B: Household Demographics,HH Marital Status,Married
+9218584,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9218584,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9219271,LA Group B: Household Demographics,HH Marital Status,Single
+9219271,LA Group H: Education Demographics,Input Ind - Education,High School
+9219271,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9219271,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9221648,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9221648,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9221648,LA Group B: Household Demographics,HH Marital Status,Single
+9221648,LA Group H: Education Demographics,Input Ind - Education,High School
+9225289,LA Group B: Household Demographics,HH Marital Status,Married
+9225289,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9225289,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9226496,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9226496,LA Group H: Education Demographics,Input Ind - Education,High School
+9226496,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9228560,LA Group B: Household Demographics,HH Marital Status,Single
+9228560,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9228560,LA Group H: Education Demographics,Input Ind - Education,High School
+9228560,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9228664,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9228664,LA Group B: Household Demographics,HH Marital Status,Single
+9228664,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9228898,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9228898,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9228898,LA Group B: Household Demographics,HH Marital Status,Married
+9228898,LA Group H: Education Demographics,Input Ind - Education,High School
+9228904,LA Group B: Household Demographics,HH Marital Status,Married
+9228904,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9228904,LA Group H: Education Demographics,Input Ind - Education,High School
+9228904,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9233672,LA Group H: Education Demographics,Input Ind - Education,High School
+9233672,LA Group B: Household Demographics,HH Marital Status,Single
+9233672,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9233672,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9236744,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9236744,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9236744,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9238971,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+9238971,LA Group H: Education Demographics,Input Ind - Education,High School
+9238971,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9238971,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9241365,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9241365,LA Group B: Household Demographics,HH Marital Status,Married
+9241365,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9242221,LA Group B: Household Demographics,HH Marital Status,Married
+9242221,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9242221,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9248404,LA Group H: Education Demographics,Input Ind - Education,High School
+9248404,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9248404,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9248404,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9257635,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9257635,LA Group B: Household Demographics,HH Marital Status,Married
+9257635,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9257635,LA Group H: Education Demographics,Input Ind - Education,High School
+9258583,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9258583,LA Group B: Household Demographics,HH Marital Status,Married
+9258583,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9258583,LA Group H: Education Demographics,Input Ind - Education,High School
+9259197,LA Group H: Education Demographics,Input Ind - Education,High School
+9259197,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9259197,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9260730,LA Group H: Education Demographics,Input Ind - Education,College
+9260730,LA Group B: Household Demographics,HH Marital Status,Married
+9260730,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9260730,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9262081,LA Group B: Household Demographics,HH Marital Status,Single
+9262081,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9262081,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9262081,LA Group H: Education Demographics,Input Ind - Education,High School
+9267834,LA Group H: Education Demographics,Input Ind - Education,College
+9267834,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9267834,LA Group B: Household Demographics,HH Marital Status,Married
+9267834,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9271388,LA Group H: Education Demographics,Input Ind - Education,High School
+9271388,LA Group B: Household Demographics,HH Marital Status,Single
+9271388,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9271388,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9271537,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9271537,LA Group B: Household Demographics,HH Marital Status,Single
+9271537,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9271537,LA Group H: Education Demographics,Input Ind - Education,High School
+9271540,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9271540,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9271540,LA Group H: Education Demographics,Input Ind - Education,High School
+9271540,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9273467,LA Group H: Education Demographics,Input Ind - Education,High School
+9273467,LA Group B: Household Demographics,HH Marital Status,Single
+9273467,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9273467,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9278756,LA Group B: Household Demographics,HH Marital Status,Single
+9278756,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9278756,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9278756,LA Group H: Education Demographics,Input Ind - Education,High School
+9279107,LA Group B: Household Demographics,HH Marital Status,Married
+9279107,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9279107,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9279821,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9279821,LA Group H: Education Demographics,Input Ind - Education,High School
+9279821,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9279821,LA Group B: Household Demographics,HH Marital Status,Single
+9280618,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+9280618,LA Group B: Household Demographics,HH Marital Status,Married
+9280618,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9280618,LA Group H: Education Demographics,Input Ind - Education,High School
+9281425,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9281425,LA Group H: Education Demographics,Input Ind - Education,High School
+9281425,LA Group B: Household Demographics,HH Marital Status,Single
+9281425,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9282870,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9282870,LA Group B: Household Demographics,HH Marital Status,Married
+9282870,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9282870,LA Group H: Education Demographics,Input Ind - Education,High School
+9282973,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9282973,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9284909,LA Group H: Education Demographics,Input Ind - Education,High School
+9284909,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9284909,LA Group B: Household Demographics,HH Marital Status,Married
+9284909,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9285683,LA Group B: Household Demographics,HH Marital Status,Married
+9285683,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9285683,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9287889,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9287889,LA Group H: Education Demographics,Input Ind - Education,High School
+9287889,LA Group B: Household Demographics,HH Marital Status,Married
+9287889,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9289617,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9289617,LA Group B: Household Demographics,HH Marital Status,Married
+9289617,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9293447,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9293447,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+9293447,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9293447,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9307584,LA Group H: Education Demographics,Input Ind - Education,High School
+9307743,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9307743,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9307743,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9308466,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9308466,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9308466,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9308466,LA Group H: Education Demographics,Input Ind - Education,High School
+9309138,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9309138,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9309138,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9309138,LA Group B: Household Demographics,HH Marital Status,Married
+9313712,LA Group H: Education Demographics,Input Ind - Education,High School
+9313712,LA Group B: Household Demographics,HH Marital Status,Single
+9313712,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9313712,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9316855,LA Group B: Household Demographics,HH Marital Status,Married
+9316855,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9316855,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9317533,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9317533,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9317533,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+9317533,LA Group H: Education Demographics,Input Ind - Education,High School
+9319176,LA Group B: Household Demographics,HH Marital Status,Married
+9319176,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9319176,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,76
+9321291,LA Group B: Household Demographics,HH Marital Status,Married
+9321291,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9321291,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9331582,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9331582,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9331582,LA Group B: Household Demographics,HH Marital Status,Married
+9331582,LA Group H: Education Demographics,Input Ind - Education,College
+9333136,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9333136,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9333136,LA Group H: Education Demographics,Input Ind - Education,High School
+9333136,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9333700,LA Group H: Education Demographics,Input Ind - Education,High School
+9333700,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9333700,LA Group B: Household Demographics,HH Marital Status,Married
+9333700,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9340193,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9340193,LA Group B: Household Demographics,HH Marital Status,Married
+9340193,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9340850,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9340850,LA Group B: Household Demographics,HH Marital Status,Married
+9340850,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9342305,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9342305,LA Group H: Education Demographics,Input Ind - Education,College
+9342305,LA Group B: Household Demographics,HH Marital Status,Single
+9342305,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9357215,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9357215,LA Group B: Household Demographics,HH Marital Status,Married
+9357231,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9357231,LA Group B: Household Demographics,HH Marital Status,Married
+9357231,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9357231,LA Group H: Education Demographics,Input Ind - Education,High School
+9360540,LA Group H: Education Demographics,Input Ind - Education,High School
+9360540,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9360540,LA Group B: Household Demographics,HH Marital Status,Married
+9360540,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9362032,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9362032,LA Group H: Education Demographics,Input Ind - Education,High School
+9362032,LA Group B: Household Demographics,HH Marital Status,Single
+9362032,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9390958,LA Group B: Household Demographics,HH Marital Status,Single
+9390958,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9390958,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9400210,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9400210,LA Group H: Education Demographics,Input Ind - Education,High School
+9400210,LA Group B: Household Demographics,HH Marital Status,Married
+9400210,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9402800,LA Group H: Education Demographics,Input Ind - Education,High School
+9402800,LA Group B: Household Demographics,HH Marital Status,Married
+9402800,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,90
+9402800,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9413689,LA Group H: Education Demographics,Input Ind - Education,High School
+9413689,LA Group B: Household Demographics,HH Marital Status,Single
+9413689,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9413689,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9416116,LA Group H: Education Demographics,Input Ind - Education,High School
+9416116,LA Group B: Household Demographics,HH Marital Status,Married
+9416116,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9416116,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9417033,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9417033,LA Group B: Household Demographics,HH Marital Status,Married
+9417033,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9417033,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9421261,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+9421261,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9421261,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9421325,LA Group H: Education Demographics,Input Ind - Education,College
+9421325,LA Group B: Household Demographics,HH Marital Status,Married
+9421325,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9421325,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9421484,LA Group H: Education Demographics,Input Ind - Education,High School
+9421484,LA Group B: Household Demographics,HH Marital Status,Married
+9421484,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9421484,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9422818,LA Group B: Household Demographics,HH Marital Status,Married
+9422818,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9422818,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9423566,LA Group H: Education Demographics,Input Ind - Education,College
+9423566,LA Group B: Household Demographics,HH Marital Status,Married
+9423566,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9423566,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9425009,LA Group H: Education Demographics,Input Ind - Education,High School
+9425009,LA Group B: Household Demographics,HH Marital Status,Married
+9425009,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,74
+9425009,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9426246,LA Group H: Education Demographics,Input Ind - Education,High School
+9426246,LA Group B: Household Demographics,HH Marital Status,Married
+9426246,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9426246,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9428154,LA Group H: Education Demographics,Input Ind - Education,High School
+9428154,LA Group B: Household Demographics,HH Marital Status,Single
+9428154,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9428154,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9428173,LA Group H: Education Demographics,Input Ind - Education,High School
+9428173,LA Group B: Household Demographics,HH Marital Status,Single
+9428173,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9428173,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9428747,LA Group B: Household Demographics,HH Marital Status,Married
+9428747,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9428747,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9431545,LA Group H: Education Demographics,Input Ind - Education,High School
+9431545,LA Group B: Household Demographics,HH Marital Status,Single
+9431545,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9431545,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9432680,LA Group H: Education Demographics,Input Ind - Education,High School
+9432680,LA Group B: Household Demographics,HH Marital Status,Married
+9432680,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9432680,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9434889,LA Group H: Education Demographics,Input Ind - Education,High School
+9434889,LA Group B: Household Demographics,HH Marital Status,Married
+9434889,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9434889,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9437932,LA Group H: Education Demographics,Input Ind - Education,College
+9437932,LA Group B: Household Demographics,HH Marital Status,Married
+9437932,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,68
+9437932,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9438597,LA Group H: Education Demographics,Input Ind - Education,High School
+9438597,LA Group B: Household Demographics,HH Marital Status,Married
+9438597,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9438597,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9441581,LA Group H: Education Demographics,Input Ind - Education,High School
+9441581,LA Group B: Household Demographics,HH Marital Status,Single
+9441581,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9441581,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9442893,LA Group H: Education Demographics,Input Ind - Education,High School
+9442893,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9442893,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9442893,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9445332,LA Group H: Education Demographics,Input Ind - Education,High School
+9445332,LA Group B: Household Demographics,HH Marital Status,Married
+9445332,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9445332,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9445761,LA Group B: Household Demographics,HH Marital Status,Single
+9445761,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9448847,LA Group H: Education Demographics,Input Ind - Education,High School
+9448847,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9448847,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9448847,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9449674,LA Group H: Education Demographics,Input Ind - Education,High School
+9449674,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9449674,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9449674,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9450607,LA Group H: Education Demographics,Input Ind - Education,High School
+9450607,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9450607,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9451047,LA Group H: Education Demographics,Input Ind - Education,High School
+9451047,LA Group B: Household Demographics,HH Marital Status,Married
+9451047,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9451047,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9451984,LA Group H: Education Demographics,Input Ind - Education,High School
+9451984,LA Group B: Household Demographics,HH Marital Status,Married
+9451984,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9451984,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9452001,LA Group H: Education Demographics,Input Ind - Education,High School
+9452001,LA Group B: Household Demographics,HH Marital Status,Married
+9452001,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9452001,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9452432,LA Group H: Education Demographics,Input Ind - Education,High School
+9452432,LA Group B: Household Demographics,HH Marital Status,Married
+9452432,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9452432,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9454181,LA Group B: Household Demographics,HH Marital Status,Married
+9454181,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9454181,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9454317,LA Group H: Education Demographics,Input Ind - Education,College
+9454317,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9454317,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9454317,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9454361,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9454361,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9454361,LA Group B: Household Demographics,HH Marital Status,Single
+9454361,LA Group H: Education Demographics,Input Ind - Education,High School
+9454535,LA Group H: Education Demographics,Input Ind - Education,College
+9454535,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9454535,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9455387,LA Group H: Education Demographics,Input Ind - Education,High School
+9455387,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9455387,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9455387,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9458113,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9458113,LA Group H: Education Demographics,Input Ind - Education,High School
+9458113,LA Group B: Household Demographics,HH Marital Status,Single
+9458113,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9458298,LA Group B: Household Demographics,HH Marital Status,Single
+9458298,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9458298,LA Group H: Education Demographics,Input Ind - Education,High School
+9458298,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9458533,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9458533,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9458533,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9459577,LA Group B: Household Demographics,HH Marital Status,Married
+9459577,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9459577,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9461871,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9461871,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9461871,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9461871,LA Group H: Education Demographics,Input Ind - Education,High School
+9463788,LA Group B: Household Demographics,HH Marital Status,Married
+9463788,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9463788,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9463798,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9463798,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9463798,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9463798,LA Group H: Education Demographics,Input Ind - Education,High School
+9464492,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9464492,LA Group B: Household Demographics,HH Marital Status,Married
+9464492,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9464492,LA Group H: Education Demographics,Input Ind - Education,High School
+9465544,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9465544,LA Group B: Household Demographics,HH Marital Status,Married
+9465544,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9465544,LA Group H: Education Demographics,Input Ind - Education,High School
+9466326,LA Group H: Education Demographics,Input Ind - Education,High School
+9466326,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9466326,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9468180,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9468180,LA Group H: Education Demographics,Input Ind - Education,High School
+9468180,LA Group B: Household Demographics,HH Marital Status,Single
+9468180,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9470131,LA Group H: Education Demographics,Input Ind - Education,High School
+9470131,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9470131,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9470131,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9474815,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9474815,LA Group B: Household Demographics,HH Marital Status,Married
+9474815,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9474922,LA Group H: Education Demographics,Input Ind - Education,College
+9474922,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9474922,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9474922,LA Group B: Household Demographics,HH Marital Status,Married
+9478112,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9478112,LA Group H: Education Demographics,Input Ind - Education,High School
+9478112,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9478112,LA Group B: Household Demographics,HH Marital Status,Married
+9478496,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9478496,LA Group B: Household Demographics,HH Marital Status,Single
+9478496,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9478496,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9479276,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9479276,LA Group B: Household Demographics,HH Marital Status,Single
+9479301,LA Group B: Household Demographics,HH Marital Status,Married
+9479301,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9479301,LA Group H: Education Demographics,Input Ind - Education,High School
+9479301,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,74
+9481892,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9481892,LA Group H: Education Demographics,Input Ind - Education,High School
+9481892,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9481892,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+9484350,LA Group H: Education Demographics,Input Ind - Education,High School
+9484350,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9484350,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9499070,LA Group H: Education Demographics,Input Ind - Education,College
+9499070,LA Group B: Household Demographics,HH Marital Status,Married
+9499070,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9499070,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9499348,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9499348,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9499348,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9500204,LA Group B: Household Demographics,HH Marital Status,Married
+9500204,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9500204,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9500223,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9500234,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9500234,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9500234,LA Group H: Education Demographics,Input Ind - Education,High School
+9500234,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9502452,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9502452,LA Group B: Household Demographics,HH Marital Status,Married
+9502452,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9502967,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9502967,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9502967,LA Group B: Household Demographics,HH Marital Status,Married
+9503035,LA Group H: Education Demographics,Input Ind - Education,High School
+9503035,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9503035,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9503035,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9503681,LA Group B: Household Demographics,HH Marital Status,Single
+9503681,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9503681,LA Group H: Education Demographics,Input Ind - Education,College
+9503681,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9503705,LA Group B: Household Demographics,HH Marital Status,Single
+9503705,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9503705,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9505744,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9505744,LA Group H: Education Demographics,Input Ind - Education,High School
+9505744,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9505744,LA Group B: Household Demographics,HH Marital Status,Single
+9508141,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9508141,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9508141,LA Group B: Household Demographics,HH Marital Status,Married
+9509704,LA Group B: Household Demographics,HH Marital Status,Married
+9509704,LA Group H: Education Demographics,Input Ind - Education,High School
+9509704,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9509704,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9526657,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9526657,LA Group B: Household Demographics,HH Marital Status,Single
+9526657,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9526657,LA Group H: Education Demographics,Input Ind - Education,High School
+9527595,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9527595,LA Group H: Education Demographics,Input Ind - Education,High School
+9527595,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9527595,LA Group B: Household Demographics,HH Marital Status,Single
+9528933,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9528933,LA Group B: Household Demographics,HH Marital Status,Single
+9528933,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9532099,LA Group H: Education Demographics,Input Ind - Education,High School
+9532099,LA Group B: Household Demographics,HH Marital Status,Single
+9532099,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9532099,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9532526,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9532526,LA Group B: Household Demographics,HH Marital Status,Married
+9532526,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9532794,LA Group H: Education Demographics,Input Ind - Education,High School
+9532794,LA Group B: Household Demographics,HH Marital Status,Single
+9532794,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9532794,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9535286,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9535286,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9535286,LA Group H: Education Demographics,Input Ind - Education,High School
+9535286,LA Group B: Household Demographics,HH Marital Status,Single
+9537083,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,70
+9537083,LA Group B: Household Demographics,HH Marital Status,Single
+9537083,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9537083,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9537534,LA Group B: Household Demographics,HH Marital Status,Married
+9537534,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9537534,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9537999,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9537999,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9537999,LA Group B: Household Demographics,HH Marital Status,Married
+9538092,LA Group H: Education Demographics,Input Ind - Education,High School
+9538092,LA Group B: Household Demographics,HH Marital Status,Inferred Married
+9538092,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9538092,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9538101,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9538101,LA Group H: Education Demographics,Input Ind - Education,High School
+9538101,LA Group B: Household Demographics,HH Marital Status,Single
+9538101,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9538114,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9538114,LA Group B: Household Demographics,HH Marital Status,Single
+9538114,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9557942,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9557942,LA Group B: Household Demographics,HH Marital Status,Married
+9557942,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9557942,LA Group H: Education Demographics,Input Ind - Education,High School
+9561167,LA Group H: Education Demographics,Input Ind - Education,High School
+9561167,LA Group B: Household Demographics,HH Marital Status,Married
+9561167,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,74
+9561167,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9561582,LA Group B: Household Demographics,HH Marital Status,Married
+9561582,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9561582,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9562726,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9562726,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9563710,LA Group H: Education Demographics,Input Ind - Education,College
+9563710,LA Group B: Household Demographics,HH Marital Status,Married
+9563710,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9563710,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9568314,LA Group H: Education Demographics,Input Ind - Education,High School
+9568314,LA Group B: Household Demographics,HH Marital Status,Single
+9568314,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9568314,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9571318,LA Group H: Education Demographics,Input Ind - Education,High School
+9571318,LA Group B: Household Demographics,HH Marital Status,Married
+9571318,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9571318,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9572210,LA Group B: Household Demographics,HH Marital Status,Single
+9572210,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,70
+9572210,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9574720,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9574720,LA Group H: Education Demographics,Input Ind - Education,College
+9574720,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9574720,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9578059,LA Group H: Education Demographics,Input Ind - Education,High School
+9578059,LA Group B: Household Demographics,HH Marital Status,Married
+9578059,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9578059,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9579979,LA Group H: Education Demographics,Input Ind - Education,High School
+9579979,LA Group B: Household Demographics,HH Marital Status,Married
+9579979,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9579979,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9580200,LA Group H: Education Demographics,Input Ind - Education,High School
+9580200,LA Group B: Household Demographics,HH Marital Status,Married
+9580200,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9580200,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9580786,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9580786,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9588073,LA Group H: Education Demographics,Input Ind - Education,High School
+9588073,LA Group B: Household Demographics,HH Marital Status,Single
+9588073,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9588073,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9589642,LA Group H: Education Demographics,Input Ind - Education,High School
+9589642,LA Group B: Household Demographics,HH Marital Status,Single
+9589642,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9589642,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9591349,LA Group B: Household Demographics,HH Marital Status,Single
+9591349,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9591349,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9591439,LA Group B: Household Demographics,HH Marital Status,Single
+9591439,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,32
+9591439,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9592610,LA Group H: Education Demographics,Input Ind - Education,High School
+9592610,LA Group B: Household Demographics,HH Marital Status,Married
+9592610,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9592610,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9593830,LA Group B: Household Demographics,HH Marital Status,Married
+9593830,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9593830,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9593983,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9593983,LA Group B: Household Demographics,HH Marital Status,Married
+9593983,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9593983,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9599414,LA Group H: Education Demographics,Input Ind - Education,High School
+9599414,LA Group B: Household Demographics,HH Marital Status,Married
+9599414,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9599414,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9601707,LA Group H: Education Demographics,Input Ind - Education,High School
+9601707,LA Group B: Household Demographics,HH Marital Status,Single
+9601707,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9601707,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9604628,LA Group H: Education Demographics,Input Ind - Education,College
+9604628,LA Group B: Household Demographics,HH Marital Status,Married
+9604628,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9604628,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9608436,LA Group H: Education Demographics,Input Ind - Education,High School
+9608436,LA Group B: Household Demographics,HH Marital Status,Married
+9608436,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9608436,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9609142,LA Group H: Education Demographics,Input Ind - Education,College
+9609142,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9609142,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9609142,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9611815,LA Group H: Education Demographics,Input Ind - Education,High School
+9611815,LA Group B: Household Demographics,HH Marital Status,Married
+9611815,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9611815,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9612053,LA Group B: Household Demographics,HH Marital Status,Single
+9612053,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9612053,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9614670,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9614670,LA Group H: Education Demographics,Input Ind - Education,College
+9614670,LA Group B: Household Demographics,HH Marital Status,Single
+9614670,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9614698,LA Group H: Education Demographics,Input Ind - Education,High School
+9614698,LA Group B: Household Demographics,HH Marital Status,Single
+9614698,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9614698,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9616391,LA Group B: Household Demographics,HH Marital Status,Married
+9616391,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,38
+9616391,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9620328,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+9620328,LA Group B: Household Demographics,HH Marital Status,Single
+9620328,LA Group H: Education Demographics,Input Ind - Education,High School
+9620328,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9622829,LA Group B: Household Demographics,HH Marital Status,Married
+9622829,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9622829,LA Group H: Education Demographics,Input Ind - Education,High School
+9622829,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9622866,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9622866,LA Group B: Household Demographics,HH Marital Status,Married
+9622866,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9622866,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9624549,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9624549,LA Group B: Household Demographics,HH Marital Status,Married
+9624549,LA Group H: Education Demographics,Input Ind - Education,High School
+9624549,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9624990,LA Group B: Household Demographics,HH Marital Status,Single
+9624990,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9624990,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9624990,LA Group H: Education Demographics,Input Ind - Education,High School
+9629506,LA Group B: Household Demographics,HH Marital Status,Married
+9629506,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9629506,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9629506,LA Group H: Education Demographics,Input Ind - Education,High School
+9629919,LA Group H: Education Demographics,Input Ind - Education,High School
+9629919,LA Group B: Household Demographics,HH Marital Status,Married
+9629919,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9629919,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9636883,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9636883,LA Group H: Education Demographics,Input Ind - Education,High School
+9636883,LA Group B: Household Demographics,HH Marital Status,Married
+9636883,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9637741,LA Group H: Education Demographics,Input Ind - Education,College
+9637741,LA Group B: Household Demographics,HH Marital Status,Single
+9637741,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9637741,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9637779,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9637779,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9637779,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9637779,LA Group H: Education Demographics,Input Ind - Education,High School
+9637946,LA Group H: Education Demographics,Input Ind - Education,High School
+9637946,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9637946,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9638868,LA Group B: Household Demographics,HH Marital Status,Single
+9638868,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9638868,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9638868,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9639100,LA Group H: Education Demographics,Input Ind - Education,High School
+9639100,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9639100,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9639100,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9640777,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9640777,LA Group B: Household Demographics,HH Marital Status,Single
+9640777,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9640777,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9641888,LA Group H: Education Demographics,Input Ind - Education,High School
+9641888,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9641888,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9641888,LA Group B: Household Demographics,HH Marital Status,Single
+9642076,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9642076,LA Group B: Household Demographics,HH Marital Status,Married
+9642076,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9642076,LA Group H: Education Demographics,Input Ind - Education,High School
+9643807,LA Group H: Education Demographics,Input Ind - Education,High School
+9643807,LA Group B: Household Demographics,HH Marital Status,Married
+9643807,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9643807,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9645604,LA Group B: Household Demographics,HH Marital Status,Married
+9645604,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9645604,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9646552,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9646552,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9646552,LA Group B: Household Demographics,HH Marital Status,Single
+9646552,LA Group H: Education Demographics,Input Ind - Education,High School
+9652133,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9652133,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9652133,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9652133,LA Group B: Household Demographics,HH Marital Status,Married
+9652573,LA Group H: Education Demographics,Input Ind - Education,College
+9652573,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9652573,LA Group B: Household Demographics,HH Marital Status,Married
+9652573,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9652595,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9652595,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9659842,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9659842,LA Group H: Education Demographics,Input Ind - Education,High School
+9659842,LA Group B: Household Demographics,HH Marital Status,Single
+9659842,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9687781,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9687781,LA Group B: Household Demographics,HH Marital Status,Married
+9687781,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9687781,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9701237,LA Group B: Household Demographics,HH Marital Status,Married
+9701237,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9701237,LA Group H: Education Demographics,Input Ind - Education,High School
+9701237,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9705617,LA Group B: Household Demographics,HH Marital Status,Married
+9705617,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9705617,LA Group H: Education Demographics,Input Ind - Education,College
+9705617,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+9706291,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9706291,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9706291,LA Group B: Household Demographics,HH Marital Status,Married
+9706291,LA Group H: Education Demographics,Input Ind - Education,High School
+9707749,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9718486,LA Group H: Education Demographics,Input Ind - Education,High School
+9718486,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9718486,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9718486,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9719361,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9719361,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9719361,LA Group H: Education Demographics,Input Ind - Education,High School
+9719361,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9721454,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9721454,LA Group B: Household Demographics,HH Marital Status,Single
+9723418,LA Group H: Education Demographics,Input Ind - Education,High School
+9723418,LA Group B: Household Demographics,HH Marital Status,Married
+9723418,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9723418,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9724228,LA Group B: Household Demographics,HH Marital Status,Married
+9724228,LA Group H: Education Demographics,Input Ind - Education,High School
+9724228,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9724228,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9726871,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9726871,LA Group H: Education Demographics,Input Ind - Education,College
+9726871,LA Group B: Household Demographics,HH Marital Status,Married
+9726871,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,50
+9726886,LA Group H: Education Demographics,Input Ind - Education,High School
+9726886,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9726886,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9727558,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9727558,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9727558,LA Group B: Household Demographics,HH Marital Status,Single
+9727558,LA Group H: Education Demographics,Input Ind - Education,High School
+9728593,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9728593,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9728593,LA Group B: Household Demographics,HH Marital Status,Single
+9729827,LA Group H: Education Demographics,Input Ind - Education,High School
+9729827,LA Group B: Household Demographics,HH Marital Status,Married
+9729827,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,62
+9729827,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9730055,LA Group H: Education Demographics,Input Ind - Education,High School
+9730055,LA Group B: Household Demographics,HH Marital Status,Single
+9730055,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9730055,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9730827,LA Group H: Education Demographics,Input Ind - Education,High School
+9730827,LA Group B: Household Demographics,HH Marital Status,Married
+9730827,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9730827,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9731697,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9731697,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9731781,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9731781,LA Group B: Household Demographics,HH Marital Status,Married
+9731781,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9733181,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9733181,LA Group B: Household Demographics,HH Marital Status,Single
+9733181,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9734493,LA Group B: Household Demographics,HH Marital Status,Single
+9734493,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9734493,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9734493,LA Group H: Education Demographics,Input Ind - Education,High School
+9734880,LA Group H: Education Demographics,Input Ind - Education,College
+9734880,LA Group B: Household Demographics,HH Marital Status,Single
+9734880,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9734880,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9734928,LA Group B: Household Demographics,HH Marital Status,Married
+9734928,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9734928,LA Group H: Education Demographics,Input Ind - Education,High School
+9734928,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9735011,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9735011,LA Group H: Education Demographics,Input Ind - Education,College
+9735011,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9735011,LA Group B: Household Demographics,HH Marital Status,Single
+9735356,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,66
+9735356,LA Group H: Education Demographics,Input Ind - Education,High School
+9735356,LA Group B: Household Demographics,HH Marital Status,Married
+9735356,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9736125,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9736125,LA Group H: Education Demographics,Input Ind - Education,College
+9736125,LA Group B: Household Demographics,HH Marital Status,Married
+9736125,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9739511,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9739511,LA Group B: Household Demographics,HH Marital Status,Single
+9739511,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9739511,LA Group H: Education Demographics,Input Ind - Education,High School
+9742353,LA Group H: Education Demographics,Input Ind - Education,College
+9742353,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,40
+9742353,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9742353,LA Group B: Household Demographics,HH Marital Status,Married
+9743813,LA Group H: Education Demographics,Input Ind - Education,High School
+9743813,LA Group B: Household Demographics,HH Marital Status,Married
+9743813,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9743813,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9743864,LA Group H: Education Demographics,Input Ind - Education,High School
+9743864,LA Group B: Household Demographics,HH Marital Status,Single
+9743864,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9743864,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9745223,LA Group H: Education Demographics,Input Ind - Education,High School
+9745223,LA Group B: Household Demographics,HH Marital Status,Married
+9745223,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9745223,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+9746920,LA Group B: Household Demographics,HH Marital Status,Single
+9746920,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9746920,LA Group H: Education Demographics,Input Ind - Education,High School
+9746920,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9747349,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9747349,LA Group B: Household Demographics,HH Marital Status,Single
+9747349,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9747349,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,86
+9747437,LA Group H: Education Demographics,Input Ind - Education,High School
+9747437,LA Group B: Household Demographics,HH Marital Status,Married
+9747437,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,68
+9747437,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9747444,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9747444,LA Group H: Education Demographics,Input Ind - Education,College
+9747444,LA Group B: Household Demographics,HH Marital Status,Married
+9747444,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9752387,LA Group B: Household Demographics,HH Marital Status,Married
+9752387,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9752387,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9752387,LA Group H: Education Demographics,Input Ind - Education,High School
+9754379,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9754379,LA Group H: Education Demographics,Input Ind - Education,High School
+9754379,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9754379,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9754421,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+9754421,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9754421,LA Group H: Education Demographics,Input Ind - Education,High School
+9754421,LA Group B: Household Demographics,HH Marital Status,Single
+9754581,LA Group B: Household Demographics,HH Marital Status,Single
+9754581,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9754581,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9754839,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9754839,LA Group B: Household Demographics,HH Marital Status,Married
+9754839,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9754839,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9754939,LA Group H: Education Demographics,Input Ind - Education,High School
+9754939,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9754939,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9755706,LA Group H: Education Demographics,Input Ind - Education,High School
+9755706,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9755706,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9755706,LA Group B: Household Demographics,HH Marital Status,Married
+9755863,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9755863,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9755863,LA Group B: Household Demographics,HH Marital Status,Married
+9755863,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,66
+9756038,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9756038,LA Group H: Education Demographics,Input Ind - Education,High School
+9756038,LA Group B: Household Demographics,HH Marital Status,Married
+9756038,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9756324,LA Group H: Education Demographics,Input Ind - Education,High School
+9756324,LA Group B: Household Demographics,HH Marital Status,Married
+9756324,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9756324,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9757220,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,30
+9757220,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9757220,LA Group B: Household Demographics,HH Marital Status,Single
+9757220,LA Group H: Education Demographics,Input Ind - Education,High School
+9757708,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9757708,LA Group H: Education Demographics,Input Ind - Education,High School
+9757708,LA Group B: Household Demographics,HH Marital Status,Single
+9757708,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9757783,LA Group B: Household Demographics,HH Marital Status,Married
+9757783,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9757783,LA Group H: Education Demographics,Input Ind - Education,High School
+9757783,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9758024,LA Group B: Household Demographics,HH Marital Status,Single
+9758024,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9759070,LA Group B: Household Demographics,HH Marital Status,Married
+9759070,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,46
+9759070,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9759070,LA Group H: Education Demographics,Input Ind - Education,High School
+9760882,LA Group B: Household Demographics,HH Marital Status,Single
+9760882,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9760882,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,44
+9762648,LA Group B: Household Demographics,HH Marital Status,Married
+9762648,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9762648,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9762657,LA Group H: Education Demographics,Input Ind - Education,High School
+9762657,LA Group B: Household Demographics,HH Marital Status,Married
+9762657,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9762657,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9767142,LA Group H: Education Demographics,Input Ind - Education,High School
+9767142,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9767142,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9767142,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9770891,LA Group B: Household Demographics,HH Marital Status,Married
+9770891,LA Group H: Education Demographics,Input Ind - Education,High School
+9770891,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,28
+9770891,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9772393,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,64
+9772393,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9772393,LA Group H: Education Demographics,Input Ind - Education,High School
+9772393,LA Group B: Household Demographics,HH Marital Status,Married
+9772929,LA Group H: Education Demographics,Input Ind - Education,High School
+9773504,LA Group B: Household Demographics,HH Marital Status,Married
+9773504,LA Group H: Education Demographics,Input Ind - Education,High School
+9773504,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9773504,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9775387,LA Group B: Household Demographics,HH Marital Status,Single
+9775387,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,36
+9775387,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9775387,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9778249,LA Group B: Household Demographics,HH Marital Status,Married
+9778249,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9778249,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9778249,LA Group H: Education Demographics,Input Ind - Education,High School
+9778554,LA Group H: Education Demographics,Input Ind - Education,College
+9778554,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,42
+9778554,LA Group B: Household Demographics,HH Marital Status,Single
+9778554,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9779431,LA Group H: Education Demographics,Input Ind - Education,High School
+9779431,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,24
+9779431,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9779431,LA Group B: Household Demographics,HH Marital Status,Single
+9780261,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9780261,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9780261,LA Group H: Education Demographics,Input Ind - Education,High School
+9780261,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9782954,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9782954,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,48
+9782954,LA Group H: Education Demographics,Input Ind - Education,High School
+9782954,LA Group B: Household Demographics,HH Marital Status,Married
+9786330,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9786330,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9786330,LA Group B: Household Demographics,HH Marital Status,Married
+9786330,LA Group H: Education Demographics,Input Ind - Education,High School
+9789371,LA Group A: Gender/Age Demographics,1st Ind - Gender,Unknown
+9789371,LA Group H: Education Demographics,Input Ind - Education,Graduate School
+9789371,LA Group B: Household Demographics,HH Marital Status,Single
+9789371,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9789680,LA Group B: Household Demographics,HH Marital Status,Married
+9789680,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9789680,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9791962,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9791962,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9791962,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,58
+9792587,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,78
+9792587,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9792587,LA Group B: Household Demographics,HH Marital Status,Single
+9795083,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,60
+9795083,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9795083,LA Group B: Household Demographics,HH Marital Status,Married
+9795526,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9795526,LA Group H: Education Demographics,Input Ind - Education,High School
+9795526,LA Group B: Household Demographics,HH Marital Status,Married
+9795526,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9796110,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9796110,LA Group B: Household Demographics,HH Marital Status,Married
+9796110,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,92
+9796110,LA Group H: Education Demographics,Input Ind - Education,High School
+9798035,LA Group B: Household Demographics,HH Marital Status,Married
+9798035,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9798035,LA Group H: Education Demographics,Input Ind - Education,High School
+9798035,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,54
+9798990,LA Group B: Household Demographics,HH Marital Status,Married
+9798990,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,52
+9798990,LA Group H: Education Demographics,Input Ind - Education,College
+9798990,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9805566,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9805566,LA Group H: Education Demographics,Input Ind - Education,High School
+9805566,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9805566,LA Group B: Household Demographics,HH Marital Status,Married
+9817399,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9817399,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,22
+9817399,LA Group H: Education Demographics,Input Ind - Education,High School
+9823075,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,18
+9823075,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9823075,LA Group H: Education Demographics,Input Ind - Education,High School
+9823075,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9824503,LA Group B: Household Demographics,HH Marital Status,Married
+9824503,LA Group H: Education Demographics,Input Ind - Education,High School
+9824503,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
+9824503,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,56
+9824513,LA Group B: Household Demographics,HH Marital Status,Inferred Single
+9824513,LA Group H: Education Demographics,Input Ind - Education,High School
+9824513,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,20
+9824513,LA Group A: Gender/Age Demographics,1st Ind - Gender,Female
+9825847,LA Group A: Gender/Age Demographics,1st Ind - Age 2 yr Inc,26
+9825847,LA Group H: Education Demographics,Input Ind - Education,High School
+9825847,LA Group B: Household Demographics,HH Marital Status,Single
+9825847,LA Group A: Gender/Age Demographics,1st Ind - Gender,Male
