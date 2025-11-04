@@ -735,7 +735,7 @@ Filter to: subscriber_tenure = "Established" (or however this is identified)
 Using master_tickets:
 
 - Average paid_amount for Freshman subscribers
-- Average paid_amount for Sophomore subscribers
+- 
 - Average paid_amount for Established subscribers
 - Calculate average discount % compared to single ticket price
 
