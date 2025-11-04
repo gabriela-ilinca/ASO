@@ -79,7 +79,6 @@ Before sharing with team, verify:
 - [ ] Patron summary totals match master_tickets totals
 - [ ] All derived fields calculated correctly
 
-
 ## 📦 WORK PACKAGE 1: POPULARITY & DEMAND ANALYSIS
 
 ### **Assigned to:**
@@ -215,7 +214,7 @@ If you can identify Delta Series events (from series column or event_type):
 
 ## 💰 WORK PACKAGE 2: REVENUE & PRICING ANALYSIS
 
-### **Assigned to: Team Member B**
+### **Assigned to: Jiwon**
 
 **Difficulty:** ⭐⭐⭐ Moderate-Hard
 
