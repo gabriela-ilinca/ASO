@@ -79,23 +79,6 @@ Before sharing with team, verify:
 - [ ] Patron summary totals match master_tickets totals
 - [ ] All derived fields calculated correctly
 
-#### Task 0.3: Create Team Data Package
-
-Share with team:
-
-- master_tickets.csv
-- patron_summary.csv
-- event_summary.csv
-- data_dictionary.txt
-- Brief orientation document (1 page) explaining:
-  - What each file contains
-  - Key fields they'll need
-  - How to filter data for their analyses
-
-**Deliverables:** Clean datasets + documentation
-**Timeline:** Complete by end of Week 1, Day 2
-
----
 
 ## 📦 WORK PACKAGE 1: POPULARITY & DEMAND ANALYSIS
 
@@ -138,21 +121,6 @@ Group by event_type (from event_summary):
 - Which type has highest % of single ticket buyers?
 - Which type has highest subscriber attendance?
 
-**Code hint:**
-
-```python
-# Load data
-events = pd.read_csv('event_summary.csv')
-tickets = pd.read_csv('master_tickets.csv')
-
-# Top events by tickets sold
-top_events = events.nlargest(20, 'total_tickets_sold')[['event_name', 'total_tickets_sold', 'event_date']]
-
-# Single ticket buyer favorites
-single_ticket = tickets[tickets['buyer_category'] == 'Single Ticket']
-top_single = single_ticket.groupby('event_name')['num_seats'].sum().nlargest(10)
-```
-
 #### 1.2: Temporal Patterns (2-3 hours)
 
 Analyze when tickets sell best:
@@ -174,25 +142,6 @@ Analyze when tickets sell best:
 
 - Using weekend column from event_summary
 - Compare attendance: weekend vs weekday concerts
-
-**Visualization hint:**
-
-```python
-# Monthly trend
-monthly = events.groupby(['fiscal_year', 'month_name']).agg({
-    'total_tickets_sold': 'sum',
-    'unique_patrons': 'sum'
-}).reset_index()
-
-# Plot
-plt.figure(figsize=(12, 6))
-for year in ['FY23', 'FY24']:
-    data = monthly[monthly['fiscal_year'] == year]
-    plt.plot(data['month_name'], data['total_tickets_sold'], marker='o', label=year)
-plt.title('Monthly Ticket Sales Trend')
-plt.xticks(rotation=45)
-plt.legend()
-```
 
 #### 1.3: Purchase Timing Behavior (2 hours)
 
@@ -299,22 +248,6 @@ Identify our financial winners:
 - What % comes from top 20%?
 - Is revenue concentrated or distributed?
 
-**Code hint:**
-
-```python
-# Revenue concentration
-events = pd.read_csv('event_summary.csv')
-events_sorted = events.sort_values('total_revenue', ascending=False)
-events_sorted['cumulative_revenue'] = events_sorted['total_revenue'].cumsum()
-events_sorted['pct_of_total'] = events_sorted['cumulative_revenue'] / events_sorted['total_revenue'].sum() * 100
-
-# Top 20% of events
-top_20pct_count = int(len(events) * 0.2)
-revenue_from_top_20pct = events_sorted.iloc[:top_20pct_count]['total_revenue'].sum()
-pct = revenue_from_top_20pct / events_sorted['total_revenue'].sum() * 100
-print(f"Top 20% of events generate {pct:.1f}% of revenue")
-```
-
 #### 2.2: Revenue by Time Period (2 hours)
 
 Understand seasonality of revenue:
@@ -361,22 +294,6 @@ Using patron_summary.csv:
 - Subscribers: avg spend per person
 - Compare: Do subscribers spend more over 2 years despite discounts?
 
-**Calculation example:**
-
-```python
-tickets = pd.read_csv('master_tickets.csv')
-# Exclude comps
-tickets_paid = tickets[tickets['comp'] == False].copy()
-
-# Revenue by buyer category
-revenue_by_category = tickets_paid.groupby('buyer_category')['paid_amount'].sum()
-pct_of_total = revenue_by_category / revenue_by_category.sum() * 100
-
-# Average spend per patron
-patrons = pd.read_csv('patron_summary.csv')
-avg_spend = patrons.groupby('primary_buyer_category')['total_spend'].agg(['mean', 'median', 'count'])
-```
-
 #### 2.4: Pricing Effectiveness (3-4 hours)
 
 **Critical for understanding if discounts are working:**
@@ -405,24 +322,6 @@ Using master_tickets with Price Code Type Description:
 - Revenue by price code (top 20)
 - Identify price codes with <1% of total tickets sold
 - Which codes generated <$5,000 total? (potentially obsolete)
-
-**Key calculation:**
-
-```python
-# Price code usage
-price_usage = tickets.groupby('price_code').agg({
-    'num_seats': 'sum',
-    'paid_amount': 'sum',
-    'acct_id': 'nunique'
-}).rename(columns={'num_seats': 'tickets_sold', 'paid_amount': 'revenue', 'acct_id': 'unique_patrons'})
-
-price_usage['pct_of_total_tickets'] = price_usage['tickets_sold'] / price_usage['tickets_sold'].sum() * 100
-price_usage['pct_of_revenue'] = price_usage['revenue'] / price_usage['revenue'].sum() * 100
-
-# Find obsolete codes
-obsolete = price_usage[price_usage['pct_of_total_tickets'] < 1.0]
-print(f"Found {len(obsolete)} price codes with <1% usage - candidates for removal")
-```
 
 **D. Revenue by Section/Price Tier:**
 
@@ -473,27 +372,6 @@ Create three demand curve visualizations:
 
 - Separate curves for: Single Ticket vs Subscribers
 - Are subscribers less price-sensitive?
-
-**Code structure:**
-
-```python
-# Aggregate by price point
-demand_data = tickets.groupby('paid_amount')['num_seats'].sum().reset_index()
-
-# Plot
-plt.figure(figsize=(10, 6))
-plt.scatter(demand_data['paid_amount'], demand_data['num_seats'], alpha=0.6)
-plt.xlabel('Price per Ticket ($)')
-plt.ylabel('Quantity Sold')
-plt.title('Demand Curve: Price vs Quantity')
-
-# Add trendline
-from numpy import polyfit, poly1d
-z = polyfit(demand_data['paid_amount'], demand_data['num_seats'], 2)
-p = poly1d(z)
-plt.plot(demand_data['paid_amount'], p(demand_data['paid_amount']), "r--", alpha=0.8, label='Trendline')
-plt.legend()
-```
 
 ### Your Deliverables:
 
@@ -568,29 +446,6 @@ For each group, show:
 - Age distribution
 - Gender breakdown
 - Geographic concentration
-
-**Code hint:**
-
-```python
-patrons = pd.read_csv('patron_summary.csv')
-
-# Overall age stats
-print("Overall Age Statistics:")
-print(patrons['age'].describe())
-
-# Age by buyer type
-age_by_type = patrons.groupby('primary_buyer_category')['age'].agg(['mean', 'median', 'count', 'std'])
-print("\nAge by Buyer Category:")
-print(age_by_type)
-
-# Age histogram
-plt.figure(figsize=(10, 6))
-plt.hist(patrons['age'].dropna(), bins=[0,25,35,50,65,100], edgecolor='black')
-plt.xlabel('Age')
-plt.ylabel('Number of Patrons')
-plt.title('Patron Age Distribution')
-plt.xticks([0,25,35,50,65,100])
-```
 
 #### 3.2: Single Ticket Buyer Behavior (2-3 hours)
 
@@ -754,8 +609,6 @@ This table should tell the complete story of each audience segment.
 
 ### **Assigned to:**
 
-**Difficulty:** ⭐ Easy
-**Skills Needed:** Basic Excel, filtering, simple calculations
 **Primary Files:** patron_summary.csv
 
 ### Your Mission:
@@ -984,11 +837,7 @@ print(f"  Avg spend: ${non_renewers['total_spend'].mean():.2f}")
 
 ### **Assigned to:**
 
-**Difficulty:** ⭐ Easy
-**Skills Needed:** Basic Excel, year-over-year comparisons
-**Primary Files:** patron_summary.csv, event_summary.csv
-
-### Your Mission:
+**Your Mission:
 
 Compare FY23 vs FY24 to identify growth trends and changes in audience composition.
 
@@ -1224,7 +1073,7 @@ If trends continue:
 
 ## 🎯 PHASE 6: SYNTHESIS & STRATEGIC RECOMMENDATIONS
 
-Your Advanced Analyses:
+Gaby
 
 #### 6.1: Returner Deep Dive (4-5 hours)
 
