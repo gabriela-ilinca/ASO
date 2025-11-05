@@ -1,0 +1,15 @@
+DATA CLEANING SUMMARY
+
+Data Preparation & Cleaning Steps:
+
+• Combined FY23 and FY24 ticket datasets into unified master dataset (73,534 total records)
+• Reshaped demographics data from long to wide format (handled duplicate entries by keeping most recent)
+• Merged ticket data with patron demographics using account ID
+• Loaded event dates from season events list and matched to tickets using event codes
+• Normalized event names (stripped whitespace, standardized formats) to ensure accurate matching
+• Added college pass tickets and flagged with is_college_pass indicator
+• Calculated days_before_event metric (purchase timing relative to event date)
+• Excluded comp tickets from revenue analysis (filtered comp = 'Y')
+• Generated comprehensive data quality report validating data completeness and ranges
+
+Result: Clean, unified master dataset ready for pricing and revenue analysis with complete event, patron, and timing information.

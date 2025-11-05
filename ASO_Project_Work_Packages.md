@@ -99,7 +99,7 @@ Create summary tables showing:
 
 **A. Overall Rankings:**
 
-- Top 20 events by total_tickets_sold
+- ==Top 20 events by total_tickets_sold
 - Top 20 events by unique_patrons
 - Top 20 events by total_revenue
 - Compare FY23 vs FY24: which events grew? Which declined?
