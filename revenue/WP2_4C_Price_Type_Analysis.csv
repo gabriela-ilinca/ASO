@@ -1,0 +1,36 @@
+price_code_type,total_revenue,avg_price,ticket_count,num_codes,pct_of_tickets,pct_of_revenue
+Single Ticket,4186726.03,121.91980285381479,34340,62,46.7,58.1
+Fixed Established Subscription 6 Concert,1072326.0,104.24088655584718,10287,14,13.99,14.88
+CYO Subscription,690775.67,128.3731035123583,5381,10,7.32,9.59
+Fixed Established Subscription 24 Concert,231759.25,88.59298547400611,2616,11,3.56,3.22
+Discounted CYO Subscription,177627.0,65.44841562269713,2714,20,3.69,2.46
+Fixed Established Subscription 12 Concert,175824.0,108.13284132841328,1626,13,2.21,2.44
+Fixed Established Subscription Sunday,133160.5,103.86934477379096,1282,10,1.74,1.85
+Fixed Freshman Subscription 6 Concert,131456.05,46.98214796283059,2798,10,3.81,1.82
+Fixed Sophomore Subscription 6 Concert,92660.5,67.63540145985401,1370,10,1.86,1.29
+Fixed Established Subscription 18 Concert,50478.0,77.89814814814815,648,9,0.88,0.7
+Fixed Freshman Subscription Sunday,35765.25,52.67341678939617,679,10,0.92,0.5
+Fixed Sophomore  Subscription Sunday,29052.5,72.9962311557789,398,11,0.54,0.4
+Fixed Lapsed Subscription 6 Concert,24353.5,72.91467065868264,334,10,0.45,0.34
+Fixed Sophomore Subscription 24 Concert,22661.5,57.95780051150895,391,9,0.53,0.31
+Fixed Upgrade Subscription 6 Concert,20777.5,79.60727969348659,261,10,0.35,0.29
+Fixed Freshman Subscription 24 Concert,18178.75,32.11793286219081,566,10,0.77,0.25
+Fixed Sophomore Subscription 12 Concert,15080.75,77.33717948717948,195,9,0.27,0.21
+Fixed Freshman Subscription 12 Concert,14174.0,46.01948051948052,308,10,0.42,0.2
+Fixed Upgrade Subscription 12 Concert,11462.75,69.89481707317073,164,7,0.22,0.16
+Fixed Chorus Subscription 6 Concert,8036.0,66.41322314049587,121,8,0.16,0.11
+Fixed Chorus Subscription 12 Concert,6689.8,88.02368421052631,76,10,0.1,0.09
+Fixed Freshman Subscription 18 Concert,6188.0,36.187134502923975,171,8,0.23,0.09
+Fixed Upgrade Subscription 18 Concert,6149.0,107.87719298245614,57,4,0.08,0.09
+Fixed Lapsed Subscription Sunday,6084.25,60.8425,100,9,0.14,0.08
+Fixed Upgrade Subscription 24 Concert,5512.0,54.57425742574257,101,6,0.14,0.08
+Fixed Sophomore Subscription 18 Concert,4666.0,56.21686746987952,83,8,0.11,0.06
+Fixed Musician Subscription 18 Concert,4583.5,66.42753623188406,69,5,0.09,0.06
+Fixed Musician Subscription 24 Concert,3893.75,29.498106060606062,132,4,0.18,0.05
+Fixed Musician Subscription 6 Concert,3768.5,68.51818181818182,55,7,0.07,0.05
+Wheelchair,3148.0,41.973333333333336,75,1,0.1,0.04
+Fixed Upgrade Subscription Sunday,3038.0,67.5111111111111,45,9,0.06,0.04
+Fixed Lapsed Subscription 24 Concert,2842.75,35.09567901234568,81,7,0.11,0.04
+Fixed Musician Subscription Sunday,700.0,63.63636363636363,11,3,0.01,0.01
+Fixed Lapsed Subscription 12 Concert,66.0,33.0,2,1,0.0,0.0
+Fixed Musician Subscription 12 Concert,45.0,22.5,2,1,0.0,0.0
