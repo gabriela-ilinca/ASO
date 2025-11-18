@@ -1,0 +1,21 @@
+segment,price_weighted_avg,observations,elasticity,r_squared,delta_q_+10pct,delta_rev_+10pct,delta_q_-10pct,delta_rev_-10pct,notes
+Balcony (All buyers),31.63,89,0.125,0.001,0.012,0.113,-0.013,-0.112,Seat-specific sensitivity.
+CYO Subscription (All seats),57.32,34,0.345,0.011,0.033,0.137,-0.036,-0.132,Bucket-level view.
+Dress Circle (All buyers),50.3,74,0.932,0.059,0.093,0.202,-0.094,-0.184,Seat-specific sensitivity.
+Fixed - Chorus (All seats),46.45,30,0.893,0.101,0.089,0.198,-0.09,-0.181,Fixed subscription detail.
+Fixed - Established (All seats),58.03,67,0.485,0.017,0.047,0.152,-0.05,-0.145,Fixed subscription detail.
+Fixed - Freshman (All seats),25.66,53,-0.219,0.004,-0.021,0.077,0.023,-0.079,Fixed subscription detail.
+Fixed - Lapsed (All seats),37.59,31,0.385,0.026,0.037,0.141,-0.04,-0.136,Fixed subscription detail.
+Fixed - Musician (All seats),35.55,23,0.989,0.134,0.099,0.209,-0.099,-0.189,Fixed subscription detail.
+Fixed - Sophomore (All seats),38.33,52,0.336,0.013,0.033,0.136,-0.035,-0.131,Fixed subscription detail.
+Fixed - Upgrade (All seats),45.22,39,0.958,0.15,0.096,0.205,-0.096,-0.186,Fixed subscription detail.
+Fixed Subscription (All) (All seats),49.15,141,0.52,0.028,0.051,0.156,-0.053,-0.148,Bucket-level view.
+Front Loge (All buyers),80.6,154,-0.105,0.001,-0.01,0.089,0.011,-0.09,Seat-specific sensitivity.
+Pit / GA (All buyers),96.91,16,-0.459,0.066,-0.043,0.053,0.05,-0.055,Seat-specific sensitivity.
+Premium CYO,59.73,26,0.139,0.001,0.013,0.115,-0.015,-0.113,Premium seat focus.
+Premium Fixed (All),53.18,123,0.122,0.002,0.012,0.113,-0.013,-0.112,Premium seat focus.
+Premium Fixed - Sophomore,41.05,45,0.238,0.006,0.023,0.125,-0.025,-0.122,Premium seat focus.
+Premium Orchestra (All buyers),56.45,228,-0.603,0.04,-0.056,0.039,0.066,-0.041,Seat-specific sensitivity.
+Premium Single Ticket - Special,85.74,37,-0.912,0.049,-0.083,0.008,0.101,-0.009,Premium seat focus.
+Single Ticket (All) (All seats),58.93,211,-0.356,0.014,-0.033,0.063,0.038,-0.066,Bucket-level view.
+Single Ticket - Special Events (All seats),77.25,53,-1.351,0.175,-0.121,-0.033,0.153,0.038,Bucket-level view.
