@@ -1,0 +1,13 @@
+segment,price_change_pct,new_price_est,elasticity,delta_quantity_pct,delta_revenue_pct
+special_single_subscriber_accounts,-10.0,79.62,-0.469,5.07,-5.44
+special_single_subscriber_accounts,-7.000000000000001,82.27,-0.469,3.46,-3.78
+special_single_subscriber_accounts,-5.0,84.04,-0.469,2.44,-2.69
+special_single_subscriber_accounts,5.0,92.89,-0.469,-2.26,2.62
+special_single_subscriber_accounts,7.000000000000001,94.66,-0.469,-3.12,3.66
+special_single_subscriber_accounts,10.0,97.31,-0.469,-4.37,5.19
+special_single_non_subscriber_accounts,-10.0,62.58,-1.466,16.71,5.04
+special_single_non_subscriber_accounts,-7.000000000000001,64.67,-1.466,11.23,3.44
+special_single_non_subscriber_accounts,-5.0,66.06,-1.466,7.81,2.42
+special_single_non_subscriber_accounts,5.0,73.01,-1.466,-6.9,-2.25
+special_single_non_subscriber_accounts,7.000000000000001,74.4,-1.466,-9.44,-3.11
+special_single_non_subscriber_accounts,10.0,76.49,-1.466,-13.04,-4.35

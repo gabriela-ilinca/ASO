@@ -1,0 +1,3 @@
+segment,seats_observed,avg_price,elasticity,r_squared,notes
+special_single_subscriber_accounts,2056,88.46,-0.469,0.023,Special-event single tickets
+special_single_non_subscriber_accounts,2991,69.53,-1.466,0.238,Special-event single tickets
