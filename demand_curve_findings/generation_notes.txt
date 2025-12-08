@@ -1,2 +1,8 @@
-Warnings / Notes:
-- No sufficient data for Fixed - Other.
+Demand Curve Generation Notes
+==================================================
+
+METHODOLOGY:
+- Single Ticket curves: seat-level aggregation (standard demand curve)
+- Subscription curves: subscriber-level aggregation (# subscribers at each price)
+  This corrects for volume discounts in subscription tiers.
+
